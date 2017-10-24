@@ -5,6 +5,8 @@ author:  mattwojo
 ms.author:  mattwoj
 ms.date: 11/06/2017
 ms.topic: article
+ms.prod: windows
+ms.technology: mixed-reality
 keywords: Compatibility Windows Mixed Reality 
 ---
 

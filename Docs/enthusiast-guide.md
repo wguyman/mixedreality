@@ -60,7 +60,7 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="/images/Plug-in-your-headset-tile.jpg" alt="" />
+                                                        <img src="images/Plug-in-your-headset-tile.jpg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -79,7 +79,7 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="/images/InstallMR-tile.jpg" alt="" />
+                                                        <img src="images/InstallMR-tile.jpg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
