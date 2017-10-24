@@ -3,12 +3,6 @@ layout: HubPage
 hide_bc: true
 title: Windows Mixed Reality Enthusiast Guide
 description: Find developer, hardware, and IT pro docs to help you build and maintain your Windows solution.
-author: <!-- GitHub Username -->
-ms.author: <!-- Microsoft Alias -->
-ms.prod: windows
-ms.technology: mixed-reality
-ms.topic: article
-keywords: Windows Mixed Reality, MR Headsets
 ---
 
 <div id="main" class="v2">
@@ -27,8 +21,8 @@ keywords: Windows Mixed Reality, MR Headsets
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/images/BeforeYouBegin-tile.jpg" alt="Image of Mixed Reality headset" />
+                                                    <div class="cardImage"> 
+                                                        <img src="Docs/images/BeforeYouBegin-tile.jpg" alt="Image of Mixed Reality headset" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -46,8 +40,8 @@ keywords: Windows Mixed Reality, MR Headsets
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/images/CheckCompatibility.jpg" alt="Compatibility icon"/>
+                                                    <div class="cardImage"> 
+                                                        <img src="windows/mixedreality/images/CheckCompatibility.jpg" alt="Compatibility icon"/>
                                                     </div>
                                                 </div>
                                                 <div class="cardText">

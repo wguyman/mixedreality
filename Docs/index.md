@@ -2,11 +2,6 @@
 layout: LandingPage
 description: Documentation for Windows Mixed Reality.
 title:  Windows Mixed Reality Documentation
-author: <!-- GitHub Username -->
-ms.author: <!-- Microsoft Alias -->
-ms.prod: windows
-ms.technology: mixed-reality
-ms.topic: article
 keywords: Windows Mixed Reality, MR Headsets
 ---
 

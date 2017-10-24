@@ -1,8 +1,8 @@
 ---
 title:  Mixed Reality Enthusiast Guide: FAQs before you buy 
 description: Frequently asked questions before you buy a Mixed Reality headset.
-author:  <!-- GitHub user name -->
-ms.author:  <!-- Microsoft Alias -->
+author:  GitHubUserName
+ms.author:  MicrosoftAlias
 ms.date: 11/06/2017
 ms.topic: article
 keywords: FAQs Windows Mixed Reality, Buy MR headset
