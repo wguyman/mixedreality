@@ -32,7 +32,12 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/mixedreality/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+      "extendBreadcrumb": true,
+      "titleSuffix": "Mixed Reality",
+      "ms.topic": "article",
+      "ms.prod": "windows",
+      "ms.technology": "mixed-reality",
+      "keywords": "mixed reality, holographic, hololens, virtual reality, vr headset"
     },
     "fileMetadata": {},
     "template": [],
