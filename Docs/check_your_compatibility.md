@@ -1,12 +1,10 @@
 ---
-title:  Mixed Reality Enthusiast Guide: Check your compatibility 
+title: Check your compatibility 
 description: Check your computer's compatibility for using a Mixed Reality headset.
 author:  mattwojo
 ms.author:  mattwoj
 ms.date: 11/06/2017
 ms.topic: article
-ms.prod: windows
-ms.technology: mixed-reality
 keywords: Compatibility Windows Mixed Reality 
 ---
 

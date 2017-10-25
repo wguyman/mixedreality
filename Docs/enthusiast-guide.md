@@ -20,9 +20,9 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
+                                                <div>
                                                     <div class="cardImage"> 
-                                                        <img src="Docs/images/BeforeYouBegin-tile.jpg" alt="Image of Mixed Reality headset" />
+                                                        <img src="images/BeforeYouBegin-tile.jpg" alt="Image of Mixed Reality headset" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -39,9 +39,9 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
+                                                <div>
                                                     <div class="cardImage"> 
-                                                        <img src="windows/mixedreality/images/CheckCompatibility.jpg" alt="Compatibility icon"/>
+                                                        <img src="images/CheckCompatibility.jpg" alt="Compatibility icon"/>
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -58,8 +58,8 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
+                                                <div>
+                                                    <div class="cardImage"> 
                                                         <img src="images/Plug-in-your-headset-tile.jpg" alt="" />
                                                     </div>
                                                 </div>
@@ -77,8 +77,8 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
+                                                <div>
+                                                    <div class="cardImage"> 
                                                         <img src="images/InstallMR-tile.jpg" alt="" />
                                                     </div>
                                                 </div>
@@ -96,9 +96,9 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/images/Setup-boundary-tile.jpg" alt="" />
+                                                <div>
+                                                    <div class="cardImage"> 
+                                                        <img src="images/Setup-boundary-tile.jpg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -115,9 +115,9 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/images/LearnMixedReality_OOBE.jpg" alt="" />
+                                                <div>
+                                                    <div class="cardImage"> 
+                                                        <img src="images/LearnMixedReality_OOBE.jpg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -134,9 +134,9 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/images/The-Cliff-House-tile.jpg" alt="" />
+                                                <div>
+                                                    <div class="cardImage"> 
+                                                        <img src="images/The-Cliff-House-tile.jpg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -153,9 +153,9 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/images/Apps.jpg" alt="" />
+                                                <div>
+                                                    <div class="cardImage"> 
+                                                        <img src="images/Apps.jpg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -172,9 +172,9 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
+                                                <div>
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="/images/Troubleshoot.jpg" alt="" />
+                                                        <img src="images/Troubleshoot.jpg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
