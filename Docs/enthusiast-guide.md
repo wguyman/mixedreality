@@ -16,7 +16,7 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                         <a href="#enthusiast-all"></a>
                         <ul id="enthusiast-all" class="cardsC">
                             <li>
-                                <a href="/before_you_buy_-_faqs.md">
+                                <a href="before_you_buy_-_faqs.md">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -35,7 +35,7 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                 </a>
                             </li>
                             <li>
-                                <a href="/intune/index">
+                                <a href="check_your_compatibility.md">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -238,7 +238,7 @@ description: Find developer, hardware, and IT pro docs to help you build and mai
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3><a href="//developer.microsoft.com/en-us/windows/mixed-reality/design">Mixed Reality Design</a></h3>
+                                                <h3><a href="index.md">Mixed Reality Developer Documentation</a></h3>
                                             </div>
                                         </div>
                                     </div>
