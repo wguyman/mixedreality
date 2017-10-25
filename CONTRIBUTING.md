@@ -54,7 +54,7 @@ We also ask that before contributing a new article, to ask yourself the followin
 - For more info, see [Fork a Repo](https://help.github.com/articles/fork-a-repo/). 
 
 ### Step #2
-- Once you have forked and cloned the repo to your local machine, you can begin authoring with the text editor of your choice.  We, of course, recommend [Visual Studio Code](https://code.visualstudio.com/), a free lightweight open source editor from Microsoft. For help with markdown authoring, check out this [Markdown is FUN for Everyone! Poster](docs/images/HowToWriteMarkdownPoster.pdf) with all of the basics you need to know. Print it and hang it on your wall as a reminder to contribute.
+- Once you have forked and cloned the repo to your local machine, you can begin authoring with the text editor of your choice.  We, of course, recommend [Visual Studio Code](https://code.visualstudio.com/), a free lightweight open source editor from Microsoft. For help with markdown authoring, check out this [Markdown is FUN for Everyone! Poster](Docs/images/HowToWriteMarkdownPoster.pdf) with all of the basics you need to know. Print it and hang it on your wall as a reminder to contribute.
 - Make any changes or additions to the content that you would like with your chosen text editor, then submit a "Pull Request" or "PR" to the original MicrosoftDocs repo. *Please be sure you are submitting your PR to the master branch, as we will not merge any PRs submitted to the live branch.
  
 ### Step #3 
