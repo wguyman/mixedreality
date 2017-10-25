@@ -1,4 +1,4 @@
-# Contributing to the Windows Machine Learning documentation
+# Contributing to the Windows Mixed Reality documentation
 
 Thank you for your interest in our documentation. We appreciate your feedback, edits, additions and help with improving our docs. This page covers the basic steps and guidelines for contributing.
 
@@ -11,26 +11,26 @@ Thank you for your interest in our documentation. We appreciate your feedback, e
 
 | To suggest a change to the docs, follow these steps: | Screenshots |
 | :------------------- | :--------: |
-| 1. If you're viewing a Docs.microsoft.com page, click the **Edit** button in the upper right of the page.  You will be redirected to the corresponding Markdown source file in the [GitHub repository](https://github.com/MicrosoftDocs/MachineLearning). | ![Edit Button](docs/images/edit_button.jpg) |
+| 1. If you're viewing a Docs.microsoft.com page, click the **Edit** button in the upper right of the page.  You will be redirected to the corresponding Markdown source file in the [GitHub repository](https://github.com/MicrosoftDocs/mixedreality). | ![Edit Button](docs/images/edit_button.jpg) |
 | 2. If you don't already have a GitHub account, click **Sign Up** in the upper right and create a new account. | ![Signup button](docs/images/signup-for-github-button.png)|
 | 3. On the corresponding GitHub page that opens, click Edit (the pencil icon). | ![Pencil button](docs/images/pencil_button.jpg)|
 | 4. In the Edit file pane, use Markdown language to make changes to the content. ([How to write markdown.](https://help.github.com/articles/basic-writing-and-formatting-syntax/))| ![Edit File](docs/images/edit-in-github.png)|
 | 5. Click Preview changes to verify the formatting looks as expected. | ![Preview changes](docs/images/edit-in-github.png)|
 | 6. When you're done, scroll to the bottom of the page and click "Propose file change", you will be presented with a "Comparing changes" page, allowing you to verify your changes. Then click the "Create pull request" button to submit your changes. At this point you are finished! | ![Propose a change](docs/images/propose.jpg)|
 
-After you submit changes (via a pull request), they will be reviewed by a member of the documentation team. If your request is accepted, updates are published to [https://docs.microsoft.com/windows/machine-learning](https://docs.microsoft.com/windows/machine-learning).
+After you submit changes (via a pull request), they will be reviewed by a member of the documentation team. If your request is accepted, updates are published to [https://docs.microsoft.com/windows/mixedreality](https://docs.microsoft.com/windows/mixedreality).
 
-*For internal review only, you can see your changes at [https://review.docs.microsoft.com/windows/machine-learning](https://review.docs.microsoft.com/en-us/collaborate/?branch=master).
+*For internal review only, you can see your changes at [https://review.docs.microsoft.com/windows/mixedreality](https://review.docs.microsoft.com/en-us/collaborate/?branch=master).
 
 ## Working with Branches
 
-The [Machine Learning GitHub repository](https://github.com/MicrosoftDocs/MachineLearning) utilizes two main parent branches: [Master](https://github.com/MicrosoftDocs/MachineLearning/tree/master), this content can be reviewed on the [staging site](https://review.docs.microsoft.com/windows/machine-learning), and [Live](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/live), for content appearing on the [live site](https://docs.microsoft.com/windows/machine-learning). 
+The [Mixed Reality GitHub repository](https://github.com/MicrosoftDocs/mixedreality) utilizes two main parent branches: [Master](https://github.com/MicrosoftDocs/mixedreality/tree/master), this content can be reviewed on the [staging site](https://review.docs.microsoft.com/windows/mixedreality), and [Live](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/live), for content appearing on the [live site](https://docs.microsoft.com/windows/mixedreality). 
 
 When making contributions, please submit your Pull Request (PR) to the **Master** branch. This branch can be viewed on the staging site and should only contain contributions that are ready to be published live. You may also create and submit a branch with your own unique branch name which can be selected and viewed in the staging site. (The **Live** branch is only allowed for use by the content administrators.)
 
 ## Using issues to provide feedback on MS Collaborate documentation
 
-To provide feedback, or point out a problem, rather than directly modifying actual documentation pages, [create an issue](https://github.com/MicrosoftDocs/MachineLearning/issues) and the content owners will do their best to address the issue in a timely fashion.
+To provide feedback, or point out a problem, rather than directly modifying actual documentation pages, [create an issue](https://github.com/MicrosoftDocs/mixedreality/issues) and the content owners will do their best to address the issue in a timely fashion.
 
 Be sure to include the topic title and the URL if you are creating an issue regarding a specific page.
 
@@ -49,7 +49,7 @@ We also ask that before contributing a new article, to ask yourself the followin
 * Have you contacted [WindowsAuthoring](mailto:windowsauthoring@microsoft.com) if you're unsure about anything?
 
 ### Step #1
-- Click the "Fork" button in the top-right corner of the [GitHub repo](https://github.com/MicrosoftDocs/MachineLearning)
+- Click the "Fork" button in the top-right corner of the [GitHub repo](https://github.com/MicrosoftDocs/mixedreality)
 - Create a local clone by clicking the green "Clone or download" button, copy to your clipboard, then in your commandline enter `git clone <paste your repo clone link>`).
 - For more info, see [Fork a Repo](https://help.github.com/articles/fork-a-repo/). 
 
@@ -63,15 +63,15 @@ We also ask that before contributing a new article, to ask yourself the followin
 - `git add -A`: This command tells git to add ALL of your changes. If you would prefer to only add the changes you have made to one particular file, instead enter the command: `git add <file.md>`, where "file.md" represents the name the file containing your changes.
 - `git commit -m “Fixed a few typos”`: This command tells git to commit the changes that you added in the previous step, along with a short message describing the changes that you made.
 - `git push origin <yourbranchname>`: This command pushes your changes to the remote repo that you forked on GitHub (the "origin") into the branch that you have specified. Because you have forked the repo to your own GitHub account, you are welcome to do your work in the **Master** branch. 
-- Go to your fork of the content repo: https://github.com/your-github-alias/MachineLearning.
-- Click the "New pull request" button. (The "base fork:" will be listed as "MicrosoftDocs/MachineLearning", the "head fork:" should show your fork of the repo and the branch in which you made your changes.) You can review your changes here as well. 
+- Go to your fork of the content repo: https://github.com/your-github-alias/mixedreality.
+- Click the "New pull request" button. (The "base fork:" will be listed as "MicrosoftDocs/mixedreality", the "head fork:" should show your fork of the repo and the branch in which you made your changes.) You can review your changes here as well. 
 - Click the green "Create pull request" button. You will then be asked to give your Pull Request a title and description, then click the "Create pull request" button once more.
 - After pushing your contribution to the remote repo, you will be sent an email from *Open Publishing Build Service* informing whether your contribution built successfully and linking to any error warnings such as broken links, click the links to see your content staged on the site.
-- Once your PR is submitted, a member of the documentation team will review your contribution and, if approved, it will be published to [https://docs.microsoft.com/windows/machine-learning](https://docs.microsoft.com/en-us/windows/machine-learning).
+- Once your PR is submitted, a member of the documentation team will review your contribution and, if approved, it will be published to [https://docs.microsoft.com/windows/mixedreality](https://docs.microsoft.com/en-us/windows/mixedreality).
 
 ## Using issues to provide feedback on this documentation
 
-To provide feedback rather than directly modifying actual documentation pages, [create an issue](https://github.com/MicrosoftDocs/MachineLearning/issues). Be sure to include the topic title and the URL for the page that your issue relates to.
+To provide feedback rather than directly modifying actual documentation pages, [create an issue](https://github.com/MicrosoftDocs/mixedreality/issues). Be sure to include the topic title and the URL for the page that your issue relates to.
 
 ## Additional resources
 - [Getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
