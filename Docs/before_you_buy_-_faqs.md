@@ -22,4 +22,8 @@ You can buy a Windows Mixed Reality headset at approved local retailers, or your
 
 You can learn more about pre-ordering your Windows Mixed Reality headset here: [https://blogs.windows.com/windowsexperience/2017/10/03/how-to-pre-order-your-windows-mixed-reality-headset/](https://blogs.windows.com/windowsexperience/2017/10/03/how-to-pre-order-your-windows-mixed-reality-headset/)
 
+## Why am I doing this?
+
+Testing an answer to this question. [Check your machine's compatibility.](check_your_compatibility.md#make-sure-your-pc-is-connected-to-the-internet)
+
 To be continued...
