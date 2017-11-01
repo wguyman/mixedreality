@@ -24,6 +24,6 @@ You can learn more about pre-ordering your Windows Mixed Reality headset here: [
 
 ## Why am I doing this?
 
-Testing an answer to this question. [Click here to learn more.](check_your_compatibility.md#make-sure-your-pc-is-connected-to-the-internet)
+Testing an answer to this question. [Check your machine's compatibility.](check_your_compatibility.md#make-sure-your-pc-is-connected-to-the-internet)
 
 To be continued...
