@@ -1,131 +1,27 @@
 ---
 layout: LandingPage
 description: Documentation for Windows Mixed Reality.
-title:  Windows Mixed Reality Documentation
+title:  Enthusiast's Guide to Mixed Reality
 keywords: Windows Mixed Reality, MR Headsets
 ---
 
-# Windows Mixed Reality Documentation
+# Enthusiast's Guide
 
-Learn to build mixed reality experiences for HoloLens and immersive headsets.
-
-<!-- You can find a list of docs icons for use here: https://review.docs.microsoft.com/en-us/prod-test/gallery/image-gallery?branch=master  -->
-<ul class="panelContent cardsFTitle">
-    <li>
-        <a href="//developer.microsoft.com/windows/mixed-reality">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/en-us/media/hubs/windows/win_developer-5.svg" alt="Immersive headset icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Windows Mixed Reality: Academy, Design, Development, Community and Support</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_get-started.svg" alt="Get started icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Placeholder</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_tools.svg" alt="Tools icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Placeholder</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-  </ul>
-  
----
-
-<h2>Reference</h2>
-
-<ul class="panelContent cardsFTitle">
-    <li>
-        <a href="">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_benefits.svg" alt="Benefits icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Placeholder</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-
-    <li>
-        <a href="">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_tasks.svg" alt="Tasks Icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Placeholder</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-
-    <li>
-        <a href="">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_tasks.svg" alt="Tasks Icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Placeholder</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>   
-</ul>
+* [Before You Buy - FAQs](../Before_You_Buy_-_FAQs.md)
+* [Before you start](../Before_you_start.md)
+* [Check Your Compatibility](../Check_Your_Compatibility.md)
+* [Filing Feedback](../Filing_Feedback.md)
+* [Install Windows Mixed Reality](../Install_Windows_Mixed_Reality.md)
+* [Learn Mixed Reality](../Learn_Mixed_Reality.md)
+* [Motion controllers](../Motion_controllers.md)
+* [Plug in your headset](../Plug_in_your_headset.md)
+* [Recommended adapters for Windows Mixed Reality Capable PCs](../Recommended_adapters_for_Windows_Mixed_Reality_Capable_PCs.md)
+* [Set up Windows Mixed Reality](../Set_up_Windows_Mixed_Reality.md)
+* [Tracking System](../Tracking_System.md)
+* [Troubleshooting Windows Mixed Reality](../Troubleshooting_Windows_Mixed_Reality.md)
+* [Using games and apps in Windows Mixed Reality](../Using_games_and_apps_in_Windows_Mixed_Reality.md)
+* [Using SteamVR with Windows Mixed Reality](../Using_SteamVR_with_Windows_Mixed_Reality.md)
+* [WebVR](../WebVR.md)
+* [Windows Mixed Reality minimum PC hardware compatibility guidelines](../Windows_Mixed_Reality_minimum_PC_hardware_compatibility_guidelines.md)
+* [Windows Mixed Reality PC Check app](../Windows_Mixed_Reality_PC_Check_app.md)
+* [Your Mixed Reality Home](../Your_Mixed_Reality_Home.md)
