@@ -28,7 +28,7 @@ The [Mixed Reality GitHub repository](https://github.com/MicrosoftDocs/mixedreal
 
 When making contributions, please submit your Pull Request (PR) to the **Master** branch. This branch can be viewed on the staging site and should only contain contributions that are ready to be published live. You may also create and submit a branch with your own unique branch name which can be selected and viewed in the staging site. (The **Live** branch is only allowed for use by the content administrators.)
 
-## Using issues to provide feedback on MS Collaborate documentation
+## Using issues to provide feedback on Mixed Reality documentation
 
 To provide feedback, or point out a problem, rather than directly modifying actual documentation pages, [create an issue](https://github.com/MicrosoftDocs/mixedreality/issues) and the content owners will do their best to address the issue in a timely fashion.
 
