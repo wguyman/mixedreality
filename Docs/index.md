@@ -7,7 +7,6 @@ keywords: Windows Mixed Reality, MR Headsets
 
 # Enthusiast's Guide
 
-The following 18 pages are in this category.
 * [Before You Buy - FAQs](../Before_You_Buy_-_FAQs.md)
 * [Before you start](../Before_you_start.md)
 * [Check Your Compatibility](../Check_Your_Compatibility.md)
