@@ -1,4 +1,4 @@
-﻿---
+---
 title: Before you start
 description: 
 author: GitHubUserName
