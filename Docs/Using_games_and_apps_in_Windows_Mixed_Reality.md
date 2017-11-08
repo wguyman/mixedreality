@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using games and apps in Windows Mixed Reality
 description: 
 author: GitHubUserName
