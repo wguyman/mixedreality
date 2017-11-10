@@ -216,10 +216,7 @@ For more information about how to load controller models dynamically in Unity, s
 Give us feedback in Feedback Hub, using the "Mixed Reality -> Input" category.
 
 ## See also
-* [Troubleshooting Mixed Reality > Motion Controllers](Troubleshooting-Windows-Mixed-Reality.md#motion-controllers)
-* Gestures and motion controllers in Unity
-* Gaze, gestures, and motion controllers in DirectX
-* Gestures
-* [Enthusiast's Guide: Your Windows Mixed Reality home](Your-Mixed-Reality-Home.md)
-* [Enthusiast's Guide: Using games & apps in Windows Mixed Reality](Using-games-and-apps-in-Windows-Mixed-Reality.md)
-* [Enthusiast's Guide: Tracking system](Tracking-System.md)
+* [Troubleshooting mixed reality > Motion controllers](troubleshooting-windows-mixed-reality.md#motion-controllers)
+* [Your Windows Mixed Reality home](your-mixed-reality-home.md)
+* [Using games & apps in Windows Mixed Reality](using-games-and-apps-in-windows-mixed-reality.md)
+* [Tracking system](tracking-system.md)
