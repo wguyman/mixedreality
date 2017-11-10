@@ -17,7 +17,7 @@ Performance may vary depending on your exact setup. You'll also need to make sur
 
 ## Windows Mixed Reality PC Check
 
-![Screenshot of Windows Mixed Reality PC Check](images/screenshot-mr-pc-check.JPG) 
+![Screenshot of Windows Mixed Reality PC Check](images/screenshot-mr-pc-check.jpg) 
 <a class="doc-storelink" href="https://www.microsoft.com/store/productid/9NZVL19N7CNC"><div>
 <div>
 Windows Mixed Reality PC Check
