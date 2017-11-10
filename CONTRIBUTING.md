@@ -11,12 +11,12 @@ Thank you for your interest in our documentation. We appreciate your feedback, e
 
 | To suggest a change to the docs, follow these steps: | Screenshots |
 | :------------------- | :--------: |
-| 1. If you're viewing a Docs.microsoft.com page, click the **Edit** button in the upper right of the page.  You will be redirected to the corresponding Markdown source file in the [GitHub repository](https://github.com/MicrosoftDocs/mixedreality). | ![Edit Button](docs/images/edit_button.jpg) |
-| 2. If you don't already have a GitHub account, click **Sign Up** in the upper right and create a new account. | ![Signup button](docs/images/signup-for-github-button.png)|
-| 3. On the corresponding GitHub page that opens, click Edit (the pencil icon). | ![Pencil button](docs/images/pencil_button.jpg)|
-| 4. In the Edit file pane, use Markdown language to make changes to the content. ([How to write markdown.](https://help.github.com/articles/basic-writing-and-formatting-syntax/))| ![Edit File](docs/images/edit-in-github.png)|
-| 5. Click Preview changes to verify the formatting looks as expected. | ![Preview changes](docs/images/edit-in-github.png)|
-| 6. When you're done, scroll to the bottom of the page and click "Propose file change", you will be presented with a "Comparing changes" page, allowing you to verify your changes. Then click the "Create pull request" button to submit your changes. At this point you are finished! | ![Propose a change](docs/images/propose.jpg)|
+| 1. If you're viewing a Docs.microsoft.com page, click the **Edit** button in the upper right of the page.  You will be redirected to the corresponding Markdown source file in the [GitHub repository](https://github.com/MicrosoftDocs/mixedreality). | ![Edit Button](Docs/images/edit_button.jpg) |
+| 2. If you don't already have a GitHub account, click **Sign Up** in the upper right and create a new account. | ![Signup button](Docs/images/signup-for-github-button.png)|
+| 3. On the corresponding GitHub page that opens, click Edit (the pencil icon). | ![Pencil button](Docs/images/pencil_button.jpg)|
+| 4. In the Edit file pane, use Markdown language to make changes to the content. ([How to write markdown.](https://help.github.com/articles/basic-writing-and-formatting-syntax/))| ![Edit File](Docs/images/edit-in-github.png)|
+| 5. Click Preview changes to verify the formatting looks as expected. | ![Preview changes](Docs/images/edit-in-github.png)|
+| 6. When you're done, scroll to the bottom of the page and click "Propose file change", you will be presented with a "Comparing changes" page, allowing you to verify your changes. Then click the "Create pull request" button to submit your changes. At this point you are finished! | ![Propose a change](Docs/images/propose.jpg)|
 
 After you submit changes (via a pull request), they will be reviewed by a member of the documentation team. If your request is accepted, updates are published to [https://docs.microsoft.com/windows/mixedreality](https://docs.microsoft.com/windows/mixedreality).
 
@@ -28,7 +28,7 @@ The [Mixed Reality GitHub repository](https://github.com/MicrosoftDocs/mixedreal
 
 When making contributions, please submit your Pull Request (PR) to the **Master** branch. This branch can be viewed on the staging site and should only contain contributions that are ready to be published live. You may also create and submit a branch with your own unique branch name which can be selected and viewed in the staging site. (The **Live** branch is only allowed for use by the content administrators.)
 
-## Using issues to provide feedback on MS Collaborate documentation
+## Using issues to provide feedback on Mixed Reality documentation
 
 To provide feedback, or point out a problem, rather than directly modifying actual documentation pages, [create an issue](https://github.com/MicrosoftDocs/mixedreality/issues) and the content owners will do their best to address the issue in a timely fashion.
 

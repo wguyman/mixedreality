@@ -74,9 +74,18 @@ To get started with the SteamVR preview, follow the steps [here](https://aka.ms/
 ## See also
 
 If you're interested in learning more about how Windows Mixed Reality works, you may also want to read about
+<<<<<<< HEAD:Docs/using-games-and-apps-in-windows-mixed-reality.md
 * [Your mixed reality home](your-mixed-reality-home.md)
 * [Tracking system](tracking-system.md)
 * [Motion controllers](motion-controllers.md)
 * [WebVR](webvr.md)
 * [SteamVR](using-steamvr-with-windows-mixed-reality.md)
 * [Filing feedback](filing-feedback.md)
+=======
+* [Your Mixed Reality Home](Your_Mixed_Reality_Home.md)
+* [Tracking System](Tracking_System.md)
+* [Motion Controllers](Motion_controllers.md)
+* [WebVR](WebVR.md)
+* [SteamVR](Using_SteamVR_with_Windows_Mixed_Reality.md)
+* [Filing Feedback](Filing_Feedback.md)
+>>>>>>> e2cf756322f8d54d94c33fbe22fe0e8c4a36e2ad:Docs/Using_games_and_apps_in_Windows_Mixed_Reality.md
