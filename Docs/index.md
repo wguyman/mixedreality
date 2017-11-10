@@ -1,27 +1,28 @@
 ---
 layout: LandingPage
-description: Documentation for Windows Mixed Reality.
+description: Information for intermediate to advanced customers on how to get the most out of using Windows Mixed Reality.
 title:  Enthusiast's Guide to Mixed Reality
-keywords: Windows Mixed Reality, MR Headsets
+keywords: Windows Mixed Reality, Windows Virtual Reality, VR, MR
 ---
 
 # Enthusiast's Guide
 
-* [Before You Buy - FAQs](../Before_You_Buy_-_FAQs.md)
-* [Before you start](../Before_you_start.md)
-* [Check Your Compatibility](../Check_Your_Compatibility.md)
-* [Filing Feedback](../Filing_Feedback.md)
-* [Install Windows Mixed Reality](../Install_Windows_Mixed_Reality.md)
-* [Learn Mixed Reality](../Learn_Mixed_Reality.md)
-* [Motion controllers](../Motion_controllers.md)
-* [Plug in your headset](../Plug_in_your_headset.md)
-* [Recommended adapters for Windows Mixed Reality Capable PCs](../Recommended_adapters_for_Windows_Mixed_Reality_Capable_PCs.md)
-* [Set up Windows Mixed Reality](../Set_up_Windows_Mixed_Reality.md)
-* [Tracking System](../Tracking_System.md)
-* [Troubleshooting Windows Mixed Reality](../Troubleshooting_Windows_Mixed_Reality.md)
-* [Using games and apps in Windows Mixed Reality](../Using_games_and_apps_in_Windows_Mixed_Reality.md)
-* [Using SteamVR with Windows Mixed Reality](../Using_SteamVR_with_Windows_Mixed_Reality.md)
-* [WebVR](../WebVR.md)
-* [Windows Mixed Reality minimum PC hardware compatibility guidelines](../Windows_Mixed_Reality_minimum_PC_hardware_compatibility_guidelines.md)
-* [Windows Mixed Reality PC Check app](../Windows_Mixed_Reality_PC_Check_app.md)
-* [Your Mixed Reality Home](../Your_Mixed_Reality_Home.md)
+The following 18 pages are in this category.
+* [Before You Buy - FAQs](before-you-buy-faqs.md)
+* [Before you start](before-you-start.md)
+* [Check Your Compatibility](check-your-compatibility.md)
+* [Filing Feedback](filing-feedback.md)
+* [Install Windows Mixed Reality](install-windows-mixed-reality.md)
+* [Learn Mixed Reality](learn-mixed-reality.md)
+* [Motion controllers](motion-controllers.md)
+* [Plug in your headset](plug-in-your-headset.md)
+* [Recommended adapters for Windows Mixed Reality Capable PCs](recommended-adapters-for-windows-mixed-reality-capable-pcs.md)
+* [Set up Windows Mixed Reality](set-up-windows-mixed-reality.md)
+* [Tracking System](tracking-system.md)
+* [Troubleshooting Windows Mixed Reality](troubleshooting-windows-mixed-reality.md)
+* [Using games and apps in Windows Mixed Reality](using-games-and-apps-in-windows-mixed-reality.md)
+* [Using SteamVR with Windows Mixed Reality](using-steamvr-with-windows-mixed-reality.md)
+* [WebVR](webvr.md)
+* [Windows Mixed Reality minimum PC hardware compatibility guidelines](windows-mixed-reality-minimum-pc-hardware-compatibility-guidelines.md)
+* [Windows Mixed Reality PC Check app](windows-mixed-reality-pc-check-app.md)
+* [Your Mixed Reality Home](your-mixed-reality-home.md)
