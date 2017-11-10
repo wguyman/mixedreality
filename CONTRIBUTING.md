@@ -1,4 +1,4 @@
-# Contributing to the Windows Mixed Reality documentation
+# Contributing to the Enthusiast's Guide to Mixed Reality
 
 Thank you for your interest in our documentation. We appreciate your feedback, edits, additions and help with improving our docs. This page covers the basic steps and guidelines for contributing.
 
