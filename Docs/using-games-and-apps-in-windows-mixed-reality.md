@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using games and apps in Windows Mixed Reality
 description: 
 author: GitHubUserName
@@ -7,8 +7,6 @@ ms.date: 10/17/2017
 ms.topic: article
 keywords: 
 ---
-
-
 
 # Using games and apps in Windows Mixed Reality
 
@@ -75,9 +73,9 @@ To get started with the SteamVR preview, follow the steps [here](https://aka.ms/
 ## See also
 
 If you're interested in learning more about how Windows Mixed Reality works, you may also want to read about
-* [Your Mixed Reality Home](Your_Mixed_Reality_Home.md)
-* [Tracking System](Tracking_System.md)
-* [Motion Controllers](Motion_controllers.md)
-* [WebVR](WebVR.md)
-* [SteamVR](Using_SteamVR_with_Windows_Mixed_Reality.md)
-* [Filing Feedback](Filing_Feedback.md)
+* [Your mixed reality home](your-mixed-reality-home.md)
+* [Tracking system](tracking-system.md)
+* [Motion controllers](motion-controllers.md)
+* [WebVR](webvr.md)
+* [SteamVR](using-steamvr-with-windows-mixed-reality.md)
+* [Filing feedback](filing-feedback.md)
