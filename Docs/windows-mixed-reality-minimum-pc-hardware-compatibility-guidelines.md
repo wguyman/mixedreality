@@ -1,4 +1,4 @@
-﻿---
+---
 title: Windows Mixed Reality minimum PC hardware compatibility guidelines
 description: 
 author: GitHubUserName
@@ -9,12 +9,11 @@ keywords:
 ---
 
 
-
 # Windows Mixed Reality minimum PC hardware compatibility guidelines
 
 **NOTE:** guidelines for development PCs are higher than those for consumers' PCs running mixed reality apps.
 
-Performance may vary depending on your exact setup. You'll also need to make sure your PC has the [right ports](Recommended_adapters_for_Windows_Mixed_Reality_Capable_PCs.md) for the Windows Mixed Reality immersive headset that you are using.
+Performance may vary depending on your exact setup. You'll also need to make sure your PC has the [right ports](Recommended-adapters-for-Windows-Mixed-Reality-Capable-PCs.md) for the Windows Mixed Reality immersive headset that you are using.
 
 ## Windows Mixed Reality PC Check
 
@@ -32,8 +31,7 @@ Available for free in the Microsoft Store
 </div></a>
 
 
-
- The *Windows Mixed Reality PC Check* app is the best way to make sure your PC is ready to run mixed reality. Upon running the app, you'll get one of the following messages:
+The *Windows Mixed Reality PC Check* app is the best way to make sure your PC is ready to run mixed reality. Upon running the app, you'll get one of the following messages:
 * **You're good to go.** Your PC has what it takes to run Windows Mixed Reality.
 * **You’re nearly there.** This PC may be able to run Windows Mixed Reality, but some features might be limited.
 * **Can't run mixed reality.** This PC doesn't meet the minimum requirements needed to run Windows Mixed Reality.
@@ -54,8 +52,6 @@ You will then get an analysis of your PC against the required hardware, drivers,
 
 
 
-
-
 ## Compatibility guidelines
 > [!NOTE]
 > We will be updating, making additions to and may be revising these Windows Mixed Reality PC Compatibility Guidelines. Please check back regularly for the latest guidelines and requirements.
@@ -72,17 +68,17 @@ You will then get an analysis of your PC against the required hardware, drivers,
 </tr><tr>
 <td>Free disk space</td><td colspan="2" style="vertical-align: middle; text-align: center;">At least 10 GB</td>
 </tr><tr>
-<td>Graphics Card</td><td>NVIDIA GTX 960/1050 (or greater) DX12-capable discrete GPU AMD RX 460/560 (or greater) DX12-capable discrete GPU GPU must be hosted in a PCIe 3.0 x4+ Link slot</td><td>Integrated Intel&#174; HD Graphics 620 (or greater) DX12-capable integrated GPU <a href="https://en.wikipedia.org/wiki/List_of_Intel_graphics_processing_units#Ninth_generation">(Check if your model is greater)</a> NVIDIA MX150/965M (or greater) DX12-capable discrete GPU</td>
+<td>Graphics Card</td><td>NVIDIA GTX 960/1050 (or greater) DX12-capable discrete GPU AMD RX 460/560 (or greater) DX12-capable discrete GPU GPU must be hosted in a PCIe 3.0 x4+ Link slot</td><td>Integrated Intel&#174; HD Graphics 620 (or greater) DX12-capable integrated GPU <a href="https://en.wikipedia.org/wiki/List-of-Intel-graphics-processing-units#Ninth-generation">(Check if your model is greater)</a> NVIDIA MX150/965M (or greater) DX12-capable discrete GPU</td>
 </tr><tr>
 <td>Graphics Driver</td><td>Windows Display Driver Model (WDDM) 2.2 (7/17/2017 or later)</td><td>Windows Display Driver Model (WDDM) 2.2 (7/24/2017 or later)</td>
 </tr><tr>
-<td><a href="Recommended_adapters_for_Windows_Mixed_Reality_Capable_PCs.md">Graphics display port</a></td><td>HDMI 2.0 or DisplayPort 1.2</td><td>HDMI 1.4 or DisplayPort 1.2</td>
+<td><a href="Recommended-adapters-for-Windows-Mixed-Reality-Capable-PCs.md">Graphics display port</a></td><td>HDMI 2.0 or DisplayPort 1.2</td><td>HDMI 1.4 or DisplayPort 1.2</td>
 </tr><tr>
 <td>Display</td><td colspan="2" style="vertical-align: middle; text-align: center;">Connected external or integrated VGA (800x600) display (or better)</td>
 </tr><tr>
-<td><a href="Recommended_adapters_for_Windows_Mixed_Reality_Capable_PCs.md">USB connectivity</a></td><td colspan="2" style="vertical-align: middle; text-align: center;">USB 3.0 Type-A or Type-C</td>
+<td><a href="Recommended-adapters-for-Windows-Mixed-Reality-Capable-PCs.md">USB connectivity</a></td><td colspan="2" style="vertical-align: middle; text-align: center;">USB 3.0 Type-A or Type-C</td>
 </tr><tr>
-<td>Bluetooth connectivity (for <a href="Motion_controllers.md">motion controllers</a>)</td><td colspan="2" style="vertical-align: middle; text-align: center;">Bluetooth 4.0</td>
+<td>Bluetooth connectivity (for <a href="Motion-controllers.md">motion controllers</a>)</td><td colspan="2" style="vertical-align: middle; text-align: center;">Bluetooth 4.0</td>
 </tr><tr>
 <td>Expected headset framerate</td><td>90 Hz</td><td>60 Hz</td>
 </tr>
@@ -93,11 +89,9 @@ You will then get an analysis of your PC against the required hardware, drivers,
 **Notes:**
 * Larger laptops (with screens of at least 15”) perform best.
 * Hybrid graphics configurations are compatible only with a Windows Mixed Reality Ultra setup. The hybrid system’s discrete card must meet the same specifications listed for Windows Mixed Reality Ultra above.
-* Different headsets may require different hardware ports, so make sure your PC has the correct ports or [port adapters](Recommended_adapters_for_Windows_Mixed_Reality_Capable_PCs.md) to connect to your headset.
+* Different headsets may require different hardware ports, so make sure your PC has the correct ports or [port adapters](Recommended-adapters-for-Windows-Mixed-Reality-Capable-PCs.md) to connect to your headset.
 
 *Discrete and integrated graphics hardware that don't meet the minimum confirmed specifications have not been tested, confirmed, or optimized for Windows Mixed Reality and may not function properly or at all.*
 
 ## See also
-* Immersive headset setup
-* Immersive headset support
-* [Recommended adapters for Windows Mixed Reality Capable PCs](Recommended_adapters_for_Windows_Mixed_Reality_Capable_PCs.md)
+* [Recommended adapters for Windows Mixed Reality capable PCs](recommended-adapters-for-windows-mixed-reality-capable-pcs.md)
