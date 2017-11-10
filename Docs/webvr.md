@@ -1,4 +1,4 @@
-﻿---
+---
 title: WebVR
 description: 
 author: GitHubUserName
@@ -7,7 +7,6 @@ ms.date: 10/17/2017
 ms.topic: article
 keywords: 
 ---
-
 
 
 # WebVR
@@ -56,18 +55,14 @@ To experience WebVR content on a Windows Mixed Reality headset (using hardware o
 5. The first time you try to enter VR on a specific domain, the browser will ask for consent to use immersive view. Click Yes
 6. Your headset should begin presenting
 
-See also [How to get into your first WebVR Experience](Using_games_and_apps_in_Windows_Mixed_Reality.md#how_to_get_into_your_first_webvr_experience)
-
-## Troubleshooting
-
-See [Troubleshooting > WebVR](Troubleshooting_Windows_Mixed_Reality.md#webvr)
 
 ## See also
 
-If you're interested in learning more about how Windows Mixed Reality works, you may also want to read about
-* [Using games and apps in Windows Mixed Reality](Using_games_and_apps_in_Windows_Mixed_Reality.md)
-* [Your Mixed Reality Home](Your_Mixed_Reality_Home.md)
-* [Tracking System](Tracking_System.md)
-* [Motion Controllers](Motion_controllers.md)
-* [SteamVR](Using_SteamVR_with_Windows_Mixed_Reality.md)
-* [Filing Feedback](Filing_Feedback.md)
+* [Troubleshooting > WebVR](troubleshooting-windows-mixed-reality.md#webvr)
+* [How to get into your first WebVR experience](using-games-and-apps-in-windows-mixed-reality.md#how-to-get-into-your-first-webvr-experience)
+* [Using games and apps in Windows Mixed Reality](using-games-and-apps-in-windows-mixed-reality.md)
+* [Your Mixed Reality Home](your-mixed-reality-home.md)
+* [Tracking System](tracking-system.md)
+* [Motion Controllers](motion-controllers.md)
+* [SteamVR](using-steamvr-with-windows-mixed-reality.md)
+* [Filing feedback](filing-feedback.md)
