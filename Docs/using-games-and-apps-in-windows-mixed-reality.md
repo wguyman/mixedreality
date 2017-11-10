@@ -38,11 +38,12 @@ Windows Mixed Reality is just Windows. That means you can run immersive games de
 1. Ensure that your headset is plugged in and controllers are powered on (if you have them)
 2. Go to the Microsoft Edge slate that is placed in mixed reality, or Microsoft Edge application on the windows desktop
 3. Navigate to a website that supports WebVR. Some Examples:
-* [A-Painter](https://aframe.io/a-painter/)
-* [A-Blast](https://aframe.io/a-blast/)
-* [Sketchfab](https://sketchfab.com/)
-* [CNN/VR](https://cnn.com/vr)
-4. Click the 'Enter VR' button on the webpage. It may look similar to: ![VR Goggles image](images/75px-Enter-vr.png)
+   * [A-Painter](https://aframe.io/a-painter/)
+   * [A-Blast](https://aframe.io/a-blast/)
+   * [Sketchfab](https://sketchfab.com/)
+   * [CNN/VR](https://cnn.com/vr)
+4. Click the 'Enter VR' button on the webpage. It may look similar to:\
+![VR Goggles image](images/75px-Enter-vr.png)
 5. The first time you try to enter VR on a specific domain, the browser will ask for consent to use immersive view. Click Yes: ![Consent UI that is displayed on the first attempt to Enter VR on a particular domain](images/1053px-Webvr-consent-ui.png)
 6. The experience will launch and take over the experience in your headset!
 
