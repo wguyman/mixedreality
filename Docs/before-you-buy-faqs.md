@@ -1,5 +1,5 @@
-﻿---
-title: Before You Buy - FAQs
+---
+title: Before you buy - FAQs
 description: 
 author: GitHubUserName
 ms.author: MicrosoftAlias
@@ -9,8 +9,7 @@ keywords:
 ---
 
 
-
-# Before You Buy - FAQs
+# Before you buy - FAQs
 
 ## Retailers and OEMs (manufacturers)
 
@@ -70,7 +69,7 @@ keywords:
 
 ### Technical Answer: Can inside-out tracking of motion controllers impact my game play due to camera FOV?
 
-**Technical Answer:** Like the headsets, the Windows Mixed Reality motion controllers require no setup of external tracking sensors. Instead, the controllers are tracked by sensors in the headset itself. If the user moves the controllers out of the headset's field of view, in most cases Windows will continue to infer controller positions and provide them to the app. When the controller has lost visual tracking for long enough, the controller's positions will drop to approximate-accuracy positions. At this point, the system will body-lock the controller to the user, tracking the user's position as they move around, while still exposing the controller's true orientation using its internal orientation sensors. Many apps that use controllers to point at and activate UI elements can operate normally while in approximate accuracy without the user even noticing. The best way to get a feel for this is to try it yourself. Try visiting a Microsoft store near you and check it out! In the meantime, here's a video with examples of immersive content that works with motion controllers across various tracking states: [https://www.youtube.com/watch?time_continue=12&v=QK_fOFDHj0g](https://www.youtube.com/watch?time_continue=12&v=QK_fOFDHj0g)
+**Technical Answer:** Like the headsets, the Windows Mixed Reality motion controllers require no setup of external tracking sensors. Instead, the controllers are tracked by sensors in the headset itself. If the user moves the controllers out of the headset's field of view, in most cases Windows will continue to infer controller positions and provide them to the app. When the controller has lost visual tracking for long enough, the controller's positions will drop to approximate-accuracy positions. At this point, the system will body-lock the controller to the user, tracking the user's position as they move around, while still exposing the controller's true orientation using its internal orientation sensors. Many apps that use controllers to point at and activate UI elements can operate normally while in approximate accuracy without the user even noticing. The best way to get a feel for this is to try it yourself. Try visiting a Microsoft store near you and check it out! In the meantime, here's a video with examples of immersive content that works with motion controllers across various tracking states: [https://www.youtube.com/watch?time-continue=12&v=QK-fOFDHj0g](https://www.youtube.com/watch?time-continue=12&v=QK-fOFDHj0g)
 
 ### How is Windows Mixed Reality different from Samsung Gear VR?
 
@@ -162,7 +161,7 @@ The Acer, HP, Lenovo, & Dell HMDs do not have mechanical IPD adjustment. The Sam
 
 ### What are the minimums specs to run Windows Mixed Reality?
 
-**140 Character Response:** You can find the minimum specs [here](Windows_Mixed_Reality_minimum_PC_hardware_compatibility_guidelines.md)
+**140 Character Response:** You can find the minimum specs [here](Windows-Mixed-Reality-minimum-PC-hardware-compatibility-guidelines.md)
 
 ### Will Windows Mixed Reality work with my Xbox?
 
