@@ -1,14 +1,14 @@
-﻿---
-title: Tracking System
+---
+title: Tracking system
 description: Information about tracking systems for Windows Mixed Reality
 author: GitHubUserName
 ms.author: MicrosoftAlias
 ms.date: 10/17/2017
 ms.topic: article
-keywords: Windows Mixed Reality, Inside-out Tracking
+keywords: Windows Mixed Reality, Inside-out tracking
 ---
 
-# Tracking System
+# Tracking system
 
 ## How does tracking work?
 
@@ -16,13 +16,9 @@ keywords: Windows Mixed Reality, Inside-out Tracking
 
 (201 level answer): The tracking system uses two low resolution black and white cameras to identify features in your environment in visible light. The system will triangulate its position based on the observed features, and supplement this information by fusing high rate IMU data to produce a continuous pose estimation for the HMD in your environment. The pose information is used by both applications to render a scene and by the system to correct this rendering for any mis-prediction in time and position. Information on your environment is stored on your PC so that the tracking system can recall environment specific data such as the physical location of the boundary in your room. If you use your device in multiple rooms, you can set up different boundaries in each room and the tracking system will be able to recall the specific boundary for the specific room.
 
-Because tracking on Windows Mixed Reality immersive headsets works like tracking on Microsoft HoloLens, you may find this video useful: \
-\
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TneGSeqVAXQ?rel=0&amp;modestbranding=1" frameborder="0" allowfullscreen="1">
+Because tracking on Windows Mixed Reality immersive headsets works like tracking on Microsoft HoloLens, you may find this video useful:
 
-</iframe>
-
+[!VIDEO https://www.youtube.com/embed/TneGSeqVAXQ?rel=0&amp;modestbranding=1" frameborder="0" allowfullscreen="1"]
 
 
 ## What do I need to make tracking work well?
@@ -53,7 +49,7 @@ First, DOF is short hand for "degrees of freedom." When discussing tracking syst
 
 ## Things are jittering or stuttering in my headset. Is my tracking not working?
 
-There are a couple sources of this kind of error. It is important to be able to attribute what you are observing to the right cause so that it may be addressed. See the [troubleshooting](Troubleshooting_Windows_Mixed_Reality.md#tracking_system) section to help understand why this may be happening.
+There are a couple sources of this kind of error. It is important to be able to attribute what you are observing to the right cause so that it may be addressed. See the [troubleshooting](troubleshooting-windows-mixed-reality.md#tracking-system) section to help understand why this may be happening.
 
 ## Can I bring my own tracking technology to Windows Mixed Reality?
 
@@ -63,18 +59,18 @@ That is not supported at this time.
 
 Since the safety boundary is specific to a physical location, if you are using the device in a different location then the system will not be able to find the bounds. Additionally, once you have set up your boundary, the system will always look for it, even if you use the device in a different physical location. You will see this UI anytime you use the device in a different location and have not set up a boundary in that location yet. You can set up boundaries in each location you use the device, and the device will recall your location specific bounds.
 
-If you are using the device in a location you have previously set up a boundary, and the device still cannot find it, you may set up a new bounds, or clear all environment data to remove all bounds from the device. See the [troubleshooting](Troubleshooting_Windows_Mixed_Reality.md#tracking_system) section to understand why the system cannot find your bounds and steps to correct it.
+If you are using the device in a location you have previously set up a boundary, and the device still cannot find it, you may set up a new bounds, or clear all environment data to remove all bounds from the device. See the [troubleshooting](Troubleshooting-Windows-Mixed-Reality.md#tracking-system) section to understand why the system cannot find your bounds and steps to correct it.
 
 ## How to set up tracking
 
-Tracking in Windows Mixed Reality is simple to use. There is no infrastructure or setup required and the device will work out of the box. If you chose to, you may set up a virtual boundary for use. See the section on [setting up your boundary](Set_up_Windows_Mixed_Reality.md#set_up_your_room_boundary) for more information.
+Tracking in Windows Mixed Reality is simple to use. There is no infrastructure or setup required and the device will work out of the box. If you chose to, you may set up a virtual boundary for use. See the section on [setting up your boundary](Set-up-Windows-Mixed-Reality.md#set-up-your-room-boundary) for more information.
 
 ## Clearing tracking and environment data
 
 The tracking system stores some environment data so that it can recall the real-world physical location of things like your safety bounds. This information, including your safety bounds, can be removed at any time. If this information is removed, the system will no longer recognize your space or be able to recall your safety bounds. If you wish to use safety bounds after clearing the environment data, you will have to set it up again. See the Section on setting up a boundary to learn how to set up a bounds. To remove this data, open Settings, and navigate to "Mixed Reality." From here, select the Environment section of the left hand side menu. Click the "Clear Environment Data"
 
 ## See also
-* [Motion controllers](Motion_controllers.md)
-* [Motion Controller Tracking](Motion_controllers.md#controller_tracking_state)
-* [Your Mixed Reality Home](Your_Mixed_Reality_Home.md)
-* [Using games and apps in Windows Mixed Reality](Using_games_and_apps_in_Windows_Mixed_Reality.md)
+* [Motion controllers](motion-controllers.md)
+* [Motion Controller Tracking](motion-controllers.md#controller-tracking-state)
+* [Your Mixed Reality Home](your-mixed-reality-home.md)
+* [Using games and apps in Windows Mixed Reality](using-games-and-apps-in-windows-mixed-reality.md)

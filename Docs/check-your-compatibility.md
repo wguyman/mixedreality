@@ -1,5 +1,5 @@
-﻿---
-title: Check Your Compatibility
+---
+title: Check your compatibility
 description: 
 author: GitHubUserName
 ms.author: MicrosoftAlias
@@ -9,8 +9,7 @@ keywords:
 ---
 
 
-
-# Check Your Compatibility
+# Check your compatibility
 
 ## Make sure your PC is connected to the internet
 
@@ -34,6 +33,6 @@ After the app has installed, run the app. After reading the terms and conditions
 
 ![Good to go](images/700px-GoodToGo.png)
 
-## Next Chapter
+## See also
 
-[Plug in your headset](Plug_in_your_headset.md)
+* [Plug in your headset](plug-in-your-headset.md)

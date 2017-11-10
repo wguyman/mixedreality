@@ -1,4 +1,4 @@
-﻿---
+---
 title: Motion controllers
 description: 
 author: GitHubUserName
@@ -9,33 +9,21 @@ keywords:
 ---
 
 
-
 # Motion controllers
 
 Motion controllers are hardware accessories that allow users to take action in mixed reality. An advantage of motion controllers over gestures is that the controllers have a precise position in space, allowing for fine grained interaction with digital objects. For Windows Mixed Reality immersive headsets, motion controllers are the primary way that users will take action in their world.
 
-![Windows Mixed Reality motion controllers](images/WinMR_CK_1080x1080.jpg)
+![Windows Mixed Reality motion controllers](images/WinMR-CK-1080x1080.jpg)
 
 ## Device support
 
-<table>
-<tr>
-<th>Feature</th><th style="width:150px"> HoloLens</th><th style="width:150px"> Immersive headsets</th>
-</tr><tr>
-<td> Motion controllers</td><td style="text-align: center;"></td><td style="text-align: center;"> ✔️</td>
-</tr>
-</table>
-
-
+| Feature            | HoloLens | Immersive headsets |
+|--------------------|:--------:|:------------------:|
+| Motion controllers |          | ✔️                 |
 
 ## Hardware details
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nlcdDNOdm8?rel=0&amp;modestbranding=1" frameborder="0" allowfullscreen="1">
-
-</iframe>
-
-
+![VIDEO](1nlcdDNOdm8)
 
 Windows Mixed Reality motion controllers offer precise and responsive tracking of movement in your field of view using the sensors in the immersive headset, meaning there is no need to install hardware on the walls in your space. These motion controllers will offer the same ease of setup and portability as Windows Mixed Reality immersive headsets. Our device partners plan to market and sell these controllers on retail shelves this holiday.
 
@@ -90,23 +78,23 @@ Motion controllers can be bonded with host PC using Windows settings like any ot
 
 6.    Press and hold the pairing button (tab in the battery compartment) until the LEDs begin pulsing.
 
-7.    Wait "Motion controller - Left" or "Motion controller - Right" to appear to the bottom of the list. Select to pair. Controller will vibrate once when connected. ![Select Motion controller to pair, if multiple instances select one from appearing bottom of the list](images/450px-Bluetooth_-_Add_a_device.png) 8.    You will see the controller appear in the Bluetooth settings under **“Mouse, keyboard, & pen” category”** as **Connected**. At this point, you may get a firmware update – see next section (“Updating controller firmware”).
+7.    Wait "Motion controller - Left" or "Motion controller - Right" to appear to the bottom of the list. Select to pair. Controller will vibrate once when connected. ![Select Motion controller to pair, if multiple instances select one from appearing bottom of the list](images/450px-Bluetooth---Add-a-device.png) 8.    You will see the controller appear in the Bluetooth settings under **“Mouse, keyboard, & pen” category”** as **Connected**. At this point, you may get a firmware update – see next section (“Updating controller firmware”).
 
 9.    Reattach battery cover.
 
 10.    Repeat steps 1-9 for the second controller.
 
-After successfully pairing both controllers, your settings should look like this under “**“Mouse, keyboard, & pen” category** ![Motion controllers connected](images/450px-Motion_controller_-_connected.png)
+After successfully pairing both controllers, your settings should look like this under “**“Mouse, keyboard, & pen” category** ![Motion controllers connected](images/450px-Motion-controller---connected.png)
 
 If the controllers are turned off after pairing, their status will show up as Paired. If controllers stay permanently under “Other devices” category pairing may have been only partially completed and need to be performed again to get controller functional.
 
 ### Updating controller firmware
 * If an immersive headset is connected to your PC, and new controller firmware is available, the firmware will be pushed to your motion controllers automatically the next time they're turned on. Controller firmware updates are indicated by a pattern of illuminating LED quadrants in a circular motion, and take 1-2 minutes.
 * After the firmware update completes, the controllers will reboot and reconnect.
-1. Both controllers should be connected now. ![Controllers connected](images/Cyk_connected.jpg)
+1. Both controllers should be connected now. ![Controllers connected](images/Cyk-connected.jpg)
 * Verify your controllers work properly:
 1. Launch **Mixed Reality Portal** and enter your Mixed Reality Home.
-2. Move your controllers and verify tracking, test buttons, and verify teleportation works. If they don't, then check out [the troubleshooting section below](Motion_controllers.md#troubleshooting)
+2. Move your controllers and verify tracking, test buttons, and verify teleportation works. If they don't, then check out [the troubleshooting section below](motion-controllers.md#troubleshooting)
 
 ## Gazing and pointing
 
@@ -154,33 +142,20 @@ If the user moves the controllers out of the headset's field of view, in most ca
 
 At this point, the system will body-lock the controller to the user, tracking the user's position as they move around, while still exposing the controller's true orientation using its internal orientation sensors. Many apps that use controllers to point at and activate UI elements can operate normally while in approximate accuracy without the user noticing.
 
-The best way to get a feel for this is to try it yourself. Check out this video with examples of immersive content that works with motion controllers across various tracking states:\
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QK_fOFDHj0g?rel=0&amp;modestbranding=1" frameborder="0" allowfullscreen="1">
+The best way to get a feel for this is to try it yourself. Check out this video with examples of immersive content that works with motion controllers across various tracking states:
 
-</iframe>
-
-
+![VIDEO]<QK-fOFDHj0g>
 
 ### Reasoning about tracking state explicitly
 
 Apps that wish to treat positions differently based on tracking state may go further and inspect properties on the controller's state, such as SourceLossRisk and PositionAccuracy:
 
-<table class="wikitable">
-<tr>
-<th> Tracking state </th><th> SourceLossRisk </th><th> PositionAccuracy </th><th> TryGetPosition</th>
-</tr><tr>
-<td> <b>High accuracy</b> </td><td style="background-color: green; color: white"> &lt; 1.0 </td><td style="background-color: green; color: white"> High </td><td style="background-color: green; color: white"> true</td>
-</tr><tr>
-<td> <b>High accuracy (at risk of losing)</b> </td><td style="background-color: orange"> == 1.0 </td><td style="background-color: green; color: white"> High </td><td style="background-color: green; color: white"> true</td>
-</tr><tr>
-<td> <b>Approximate accuracy</b> </td><td style="background-color: orange"> == 1.0 </td><td style="background-color: orange"> Approximate </td><td style="background-color: green; color: white"> true</td>
-</tr><tr>
-<td> <b>No position</b> </td><td style="background-color: orange"> == 1.0 </td><td style="background-color: orange"> Approximate </td><td style="background-color: orange"> false</td>
-</tr>
-</table>
-
-
+| Tracking state                        | SourceLossRisk | PositionAccuracy | TryGetPosition |
+|---------------------------------------|----------------|------------------|----------------|
+| **High accuracy**                     | < 1.0          | High             | true           |
+| **High accuracy (at risk of losing)** | == 1.0         | High             | true           |
+| **Approximate accuracy**              | == 1.0         | Approximate      | true           |
+| **No position**                       | == 1.0         | Approximate      | false          |
 
 These motion controller tracking states are defined as follows:
 * **High accuracy:** While the motion controller is within the headset's field of view, it will generally provide high-accuracy positions, based on visual tracking. Note that a moving controller that momentarily leaves the field of view or is momentarily obscured from the headset sensors (e.g. by the user's other hand) will continue to return high-accuracy poses for a short time, based on inertial tracking of the controller itself.
@@ -214,15 +189,15 @@ For more information about how to load controller models dynamically in Unity, s
 **2D controller line art**\
  While we recommend attaching in-app controller tips and commands to the in-app controller models themselves, some developers may want to use 2D line art representations of the motion controllers in flat "tutorial" or "how-to" UI. For those developers, we've made .png motion controller line art files available in both black and white below (right-click to save).
 
-![Preview of motion controllers line art](images/MotionControllers_Black_preview.png)\
- [[Media:MotionControllers_White.png|Full-resolution motion controllers line art in '''white''']]\
- [[Media:MotionControllers_Black.png|Full-resolution motion controllers line art in '''black''']]
+![Preview of motion controllers line art](images/MotionControllers-Black-preview.png)\
+ [[Media:MotionControllers-White.png|Full-resolution motion controllers line art in '''white''']]\
+ [[Media:MotionControllers-Black.png|Full-resolution motion controllers line art in '''black''']]
 
 ## FAQ
 
 ### How I can connect my controller to other PC?
 
-*A: Currently controller support pairing with single PC at the time. Follow instructions on [motion controller setup](Motion_controllers.md#setup) to pair your controllers. Before pairing remember to remove existing paired controllers from Bluetooth & other devices so that Windows will discover the controllers.*
+*A: Currently controller support pairing with single PC at the time. Follow instructions on [motion controller setup](Motion-controllers.md#setup) to pair your controllers. Before pairing remember to remove existing paired controllers from Bluetooth & other devices so that Windows will discover the controllers.*
 
 ### How do I update motion controller firmware?
 
@@ -236,18 +211,12 @@ For more information about how to load controller models dynamically in Unity, s
 
 *A: Not for Universal Windows Applications*
 
-## Troubleshooting
-
-See [Troubleshooting Mixed Reality > Motion Controllers](Troubleshooting_Windows_Mixed_Reality.md#motion_controllers)
-
 ## Filing motion controller feedback/bugs
 
 Give us feedback in Feedback Hub, using the "Mixed Reality -> Input" category.
 
 ## See also
-* Gestures and motion controllers in Unity
-* Gaze, gestures, and motion controllers in DirectX
-* Gestures
-* [Enthusiast's Guide: Your Windows Mixed Reality home](Your_Mixed_Reality_Home.md)
-* [Enthusiast's Guide: Using games & apps in Windows Mixed Reality](Using_games_and_apps_in_Windows_Mixed_Reality.md)
-* [Enthusiast's Guide: Tracking system](Tracking_System.md)
+* [Troubleshooting mixed reality > Motion controllers](troubleshooting-windows-mixed-reality.md#motion-controllers)
+* [Your Windows Mixed Reality home](your-mixed-reality-home.md)
+* [Using games & apps in Windows Mixed Reality](using-games-and-apps-in-windows-mixed-reality.md)
+* [Tracking system](tracking-system.md)

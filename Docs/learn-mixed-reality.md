@@ -1,5 +1,5 @@
-﻿---
-title: Learn Mixed Reality
+---
+title: Learn mixed reality
 description: 
 author: GitHubUserName
 ms.author: MicrosoftAlias
@@ -9,8 +9,7 @@ keywords:
 ---
 
 
-
-# Learn Mixed Reality
+# Learn mixed reality
 
 ## How do I run the learning experience the first time?
 
@@ -30,10 +29,7 @@ Learn Mixed Reality is an app. The app can be launched from the Start menu insid
 1. Press **Windows Key > All Apps > Learn Mixed Reality**
 2. Left click with your mouse to place the app in your world and launch the app
 
-## Troubleshooting
+## See also
 
-See [Troubleshooting > Installation and Setup](Troubleshooting_Windows_Mixed_Reality.md#installation_and_setup)
-
-## Next Chapter
-
-[Your Mixed Reality Home](Your_Mixed_Reality_Home.md)
+* [Troubleshooting > Installation and Setup](troubleshooting-windows-mixed-reality.md#installation-and-setup)
+* [Your Mixed Reality Home](your-mixed-reality-home.md)

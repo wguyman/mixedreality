@@ -8,8 +8,6 @@ ms.topic: article
 keywords: 
 ---
 
-
-
 # Using games and apps in Windows Mixed Reality
 
 Windows Mixed Reality is just Windows. That means you can run immersive games designed for mixed reality, and you can run all of the regular 2D apps you know and love on your Desktop (like Candy Crush or Photoshop/AutoCAD).
@@ -40,11 +38,12 @@ Windows Mixed Reality is just Windows. That means you can run immersive games de
 1. Ensure that your headset is plugged in and controllers are powered on (if you have them)
 2. Go to the Microsoft Edge slate that is placed in mixed reality, or Microsoft Edge application on the windows desktop
 3. Navigate to a website that supports WebVR. Some Examples:
-* [A-Painter](https://aframe.io/a-painter/)
-* [A-Blast](https://aframe.io/a-blast/)
-* [Sketchfab](https://sketchfab.com/)
-* [CNN/VR](https://cnn.com/vr)
-4. Click the 'Enter VR' button on the webpage. It may look similar to: ![VR Goggles image](images/75px-Enter-vr.png)
+   * [A-Painter](https://aframe.io/a-painter/)
+   * [A-Blast](https://aframe.io/a-blast/)
+   * [Sketchfab](https://sketchfab.com/)
+   * [CNN/VR](https://cnn.com/vr)
+4. Click the 'Enter VR' button on the webpage. It may look similar to:\
+![VR Goggles image](images/75px-Enter-vr.png)
 5. The first time you try to enter VR on a specific domain, the browser will ask for consent to use immersive view. Click Yes: ![Consent UI that is displayed on the first attempt to Enter VR on a particular domain](images/1053px-Webvr-consent-ui.png)
 6. The experience will launch and take over the experience in your headset!
 
@@ -75,9 +74,18 @@ To get started with the SteamVR preview, follow the steps [here](https://aka.ms/
 ## See also
 
 If you're interested in learning more about how Windows Mixed Reality works, you may also want to read about
+<<<<<<< HEAD:Docs/using-games-and-apps-in-windows-mixed-reality.md
+* [Your mixed reality home](your-mixed-reality-home.md)
+* [Tracking system](tracking-system.md)
+* [Motion controllers](motion-controllers.md)
+* [WebVR](webvr.md)
+* [SteamVR](using-steamvr-with-windows-mixed-reality.md)
+* [Filing feedback](filing-feedback.md)
+=======
 * [Your Mixed Reality Home](Your_Mixed_Reality_Home.md)
 * [Tracking System](Tracking_System.md)
 * [Motion Controllers](Motion_controllers.md)
 * [WebVR](WebVR.md)
 * [SteamVR](Using_SteamVR_with_Windows_Mixed_Reality.md)
 * [Filing Feedback](Filing_Feedback.md)
+>>>>>>> e2cf756322f8d54d94c33fbe22fe0e8c4a36e2ad:Docs/Using_games_and_apps_in_Windows_Mixed_Reality.md

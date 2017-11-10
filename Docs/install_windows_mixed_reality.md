@@ -1,4 +1,4 @@
-﻿---
+---
 title: Install Windows Mixed Reality
 description: 
 author: GitHubUserName
@@ -7,8 +7,6 @@ ms.date: 10/17/2017
 ms.topic: article
 keywords: 
 ---
-
-
 
 # Install Windows Mixed Reality
 
@@ -36,10 +34,7 @@ You will see a "Getting ready to set you up" message on your screen with a spinn
 
 ![Getting ready to set you up](images/1050px-Gettingsetup.png)
 
-## Troubleshooting
+## See also
 
-See [Troubleshooting > Installation](Troubleshooting_Windows_Mixed_Reality.md#installation_and_setup)
-
-## Next Chapter
-
-[Set up Windows Mixed Reality](Set_up_Windows_Mixed_Reality.md)
+* [Troubleshooting > Installation](troubleshooting-windows-mixed-reality.md#installation-and-setup)
+* [Set up Windows Mixed Reality](set-up-windows-mixed-reality.md)
