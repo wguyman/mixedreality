@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plug in your headset
 description: 
 author: GitHubUserName
@@ -7,8 +7,6 @@ ms.date: 10/17/2017
 ms.topic: article
 keywords: 
 ---
-
-
 
 # Plug in your headset
 
@@ -30,14 +28,11 @@ Unless you purchased a Samsung HMD Odyssey headset (which has integrated AKG hea
 
 ## My PC doesn't have an HDMI port; I may need an adapter
 
-[View the full list of recommended adapters here](Recommended_adapters_for_Windows_Mixed_Reality_Capable_PCs.md).
+[View the full list of recommended adapters here](recommended-adapters-for-windows-mixed-reality-capable-pcs.md).
 
 Note: There is an older Surface Mini DisplayPort to HDMI adapter that only supports 1080p and does not work!
 
-## Troubleshooting
+## See also
 
-See [Troubleshooting > HMD Connectivity](Troubleshooting_Windows_Mixed_Reality.md#hmd_connectivity)
-
-## Next Chapter
-
-[Install Windows Mixed Reality](Install_Windows_Mixed_Reality.md)
+* [Troubleshooting > HMD connectivity](troubleshooting-windows-mixed-reality.md#hmd-connectivity)
+* [Install Windows Mixed Reality](install-windows-mixed-reality.md)
