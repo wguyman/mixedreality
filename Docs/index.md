@@ -7,7 +7,6 @@ keywords: Windows Mixed Reality, Windows Virtual Reality, VR, MR
 
 # Enthusiast's Guide
 
-The following 18 pages are in this category.
 * [Before You Buy - FAQs](before-you-buy-faqs.md)
 * [Before you start](before-you-start.md)
 * [Check Your Compatibility](check-your-compatibility.md)
