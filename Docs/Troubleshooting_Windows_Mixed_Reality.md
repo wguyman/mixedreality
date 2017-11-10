@@ -1,4 +1,4 @@
-﻿---
+---
 title: Troubleshooting Windows Mixed Reality
 description: 
 author: GitHubUserName
@@ -20,7 +20,7 @@ If you get this message, your PC doesn’t meet the minimum requirements needed 
 
 Notes on graphics cards:
 * If Windows Mixed Reality setup says your graphics card doesn’t meet the requirements and you think it does, make sure your headset is plugged into the correct card.
-* Check with your graphics card manufacturer for the latest driver update. Windows Mixed Reality requires a graphics card driver that supports at least [WDDM 2.2.](https://en.wikipedia.org/wiki/Windows_Display_Driver_Model#WDDM_2.2)
+* Check with your graphics card manufacturer for the latest driver update. Windows Mixed Reality requires a graphics card driver that supports at least [WDDM 2.2.](https://en.wikipedia.org/wiki/Windows-Display-Driver-Model#WDDM-2.2)
 
 ### I get a message that says, “You’re nearly there—this PC doesn’t meet the minimum requirements needed to run Windows Mixed Reality"
 
@@ -37,7 +37,7 @@ If you are seeing the following screen, try the following troubleshooting steps:
 
 ### Setup is stuck on the "Hang tight while we do some downloading" page
 
-Follow the guidance above in [We couldn't download the mixed reality software](Troubleshooting_Windows_Mixed_Reality.md#we_couldn.27t_download_the_mixed_reality_software).
+Follow the guidance above in [We couldn't download the mixed reality software](Troubleshooting-Windows-Mixed-Reality.md#we-couldn.27t-download-the-mixed-reality-software).
 
 ### I get an error message when I try to create a boundary
 
@@ -67,7 +67,7 @@ If input doesn't get toggled automatically, you will need to manually toggle inp
 
 ### Learn Mixed Reality didn't run on first launch, and I went right into the Windows Mixed Reality home
 
-You can re-run the learning experience by following the [re-run steps](Learn_Mixed_Reality.md#how_do_i_re-run_the_learning_experience.3f).
+You can re-run the learning experience by following the [re-run steps](Learn-Mixed-Reality.md#how-do-i-re-run-the-learning-experience.3f).
 
 ### During start up of Mixed Reality, I'm stuck at the step "Turn your head side to side, and then at the floor"
 
@@ -89,7 +89,7 @@ If the floor of your Windows Mixed Reality Home doesn't feel like it's at the ri
 
 ### My headset has stopped tracking
 
-Make sure the lights are turned on and that there isn't anything obstructing the inside-out tracking cameras on the front of your headset. If tracking is lost, it can take a few seconds for tracking to resume. If tracking does not resume, try restarting the Windows Mixed Reality Portal. See [Tracking Troubleshooting](Troubleshooting_Windows_Mixed_Reality.md#tracking_system) for more details.
+Make sure the lights are turned on and that there isn't anything obstructing the inside-out tracking cameras on the front of your headset. If tracking is lost, it can take a few seconds for tracking to resume. If tracking does not resume, try restarting the Windows Mixed Reality Portal. See [Tracking Troubleshooting](Troubleshooting-Windows-Mixed-Reality.md#tracking-system) for more details.
 
 ### I cannot show a preview of what I'm seeing in my headset on my Desktop's screen?
 
@@ -101,11 +101,11 @@ Mixed Reality Portal has a **Play** button at the bottom of the screen that allo
 * Check to make sure that the HDMI cable is plugged in all the way
 * If you're using an HDMI adapter (e.g. a Mini DisplayPort to HDMI adapter), please try connecting the adapter to your PC before connecting the HMD to the adapter.
 * Check to make sure the USB cable is plugged in a USB 3.0 or faster port. USB 3.0 ports have SS (Super Speed) written next to them. They are often (but not always) colored blue.
-* Consult the [HMD troubleshooting flow chart](Troubleshooting_Windows_Mixed_Reality.md)
+* Consult the [HMD troubleshooting flow chart](Troubleshooting-Windows-Mixed-Reality.md)
 
 ### My computer does not have an HDMI port
 
-If your computer does not have an HDMI port, you will need to use a [supported and recommended HDMI to mini display port (DP) dongle](Recommended_adapters_for_Windows_Mixed_Reality_Capable_PCs.md).
+If your computer does not have an HDMI port, you will need to use a [supported and recommended HDMI to mini display port (DP) dongle](Recommended-adapters-for-Windows-Mixed-Reality-Capable-PCs.md).
 
 ### I am getting a "Something Went Wrong" error 2181038087-12
 
@@ -160,19 +160,19 @@ After the device updates, you should see a Mixed Reality Device appear in Device
 
 ### HMD Troubleshooting Flowcharts
 
-![Black screen/Can't see anything](images/HMD_Connectivity.jpg)
+![Black screen/Can't see anything](images/HMD-Connectivity.jpg)
 
-![Connect your headset/check your USB cable](images/HMD_Connectivity2.jpg)
+![Connect your headset/check your USB cable](images/HMD-Connectivity2.jpg)
 
 ## Motion Controllers
 
 ### My controller is stuck in an infinite reboot (buzzing after LEDs cycle) OR the controller doesn't turn on at all
 
-Verify you have fresh batteries in the device. Controller buzzing 3 times and shutting down indicates critical battery. If the issue persists, perform [device recovery](Troubleshooting_Windows_Mixed_Reality.md#device_recovery) to reset the controller back to factory settings.
+Verify you have fresh batteries in the device. Controller buzzing 3 times and shutting down indicates critical battery. If the issue persists, perform [device recovery](Troubleshooting-Windows-Mixed-Reality.md#device-recovery) to reset the controller back to factory settings.
 
 ### I'm trying to pair my controllers, but they never show up in the “Add a new device menu” in Bluetooth Settings
 
-Check that you do not have controllers paired already, remove them and try again. If problem persists reboot PC and try again.'' If that fails, consult the [Bluetooth Best Practices](Troubleshooting_Windows_Mixed_Reality.md#bluetooth_best_practices) section
+Check that you do not have controllers paired already, remove them and try again. If problem persists reboot PC and try again.'' If that fails, consult the [Bluetooth Best Practices](Troubleshooting-Windows-Mixed-Reality.md#bluetooth-best-practices) section
 
 ### Wifi speeds becomes slow on my notebook when motion controllers are turned on
 
@@ -190,15 +190,15 @@ Some QCA radios have issue where radio may end up in bad state after Windows cra
 
 ### Mixed Reality Portal is working, but motion controllers are tracking poorly (controllers keep flying away, shaking etc.)
 
-Check the [Bluetooth Best Practices section](Troubleshooting_Windows_Mixed_Reality.md#bluetooth_best_practices) below. These symptoms are generally caused by failures to communicate between the controller and the host PC, which is indicative of poor Bluetooth link quality.
+Check the [Bluetooth Best Practices section](Troubleshooting-Windows-Mixed-Reality.md#bluetooth-best-practices) below. These symptoms are generally caused by failures to communicate between the controller and the host PC, which is indicative of poor Bluetooth link quality.
 
 ### Mixed Reality Portal is working, but motion controllers do not appear
 
-Check the [Bluetooth Best Practices section](Troubleshooting_Windows_Mixed_Reality.md#bluetooth_best_practices) below. These symptoms are generally caused by poor Bluetooth link quality.
+Check the [Bluetooth Best Practices section](Troubleshooting-Windows-Mixed-Reality.md#bluetooth-best-practices) below. These symptoms are generally caused by poor Bluetooth link quality.
 
 ### Motion controllers firmware update takes significantly longer than 2 minutes
 
-Check the [Bluetooth Best Practices section](Troubleshooting_Windows_Mixed_Reality.md#bluetooth_best_practices) below. These symptoms are generally caused by poor Bluetooth link quality.
+Check the [Bluetooth Best Practices section](Troubleshooting-Windows-Mixed-Reality.md#bluetooth-best-practices) below. These symptoms are generally caused by poor Bluetooth link quality.
 
 ### I just inserted fresh batteries but controller virtual battery level does not indicate full level
 
@@ -256,7 +256,7 @@ Motion controller uses LED constellation ring and haptics for indicating about i
 
 Motion Controllers use the same Bluetooth technology found in many consumer devices. Motion Controllers are designed to work with Bluetooth capability included in any recent PC.
 
-First verify that your PC has a Bluetooth radio. If the device passed the Mixed Reality Compatibility Checker then it should. Right click on the Windows Start Menu and select Device Manager. Expand the Bluetooth section and look for an Adapter. ![Screenshot of an Example Device Manager. The Adapter is the Bluetooth radio.](images/DeviceManagerBTAdapterPic.png) If your PC doesn’t have Bluetooth, one recommended dongle is the [Plugable USB Bluetooth 4.0 Low Energy Micro Adapter](https://www.amazon.com/Plugable-Bluetooth-Adapter-Raspberry-Compatible/dp/B009ZIILLI/ref=sr_1_1?ie=UTF8&qid=1490148230&sr=8-1&keywords=plugable+broadcom).
+First verify that your PC has a Bluetooth radio. If the device passed the Mixed Reality Compatibility Checker then it should. Right click on the Windows Start Menu and select Device Manager. Expand the Bluetooth section and look for an Adapter. ![Screenshot of an Example Device Manager. The Adapter is the Bluetooth radio.](images/DeviceManagerBTAdapterPic.png) If your PC doesn’t have Bluetooth, one recommended dongle is the [Plugable USB Bluetooth 4.0 Low Energy Micro Adapter](https://www.amazon.com/Plugable-Bluetooth-Adapter-Raspberry-Compatible/dp/B009ZIILLI/ref=sr-1-1?ie=UTF8&qid=1490148230&sr=8-1&keywords=plugable+broadcom).
 
 If your computer has Bluetooth already, but you are still having problems with the Motion Controllers, consider replacing your Bluetooth radio with the Plugable external Bluetooth Adapter plugged into USB.
 
@@ -279,7 +279,7 @@ Motion Controllers should work with other Bluetooth keyboards, mice and game con
 
 ### Motion Controller Troubleshooting Flowchart
 
-![Troubleshooting Flow Chart for Motion Controllers](images/Motion_Controllers.jpg)
+![Troubleshooting Flow Chart for Motion Controllers](images/Motion-Controllers.jpg)
 
 **Motion Controllers Troubleshooting Steps:**
 
@@ -330,7 +330,7 @@ Note: Recent graphics drivers tend to have performance and quality fixes for the
 
 This flow chart below helps further explain the best steps to acquire a WDDM 2.2 or later graphics driver.
 
-![Troubleshooting Flow Chart for Graphics Drivers](images/Graphics_Driver.jpg)
+![Troubleshooting Flow Chart for Graphics Drivers](images/Graphics-Driver.jpg)
 
 ## Performance
 
