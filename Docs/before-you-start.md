@@ -40,4 +40,4 @@ Unless you purchased a Samsung HMD Odyssey headset (which has integrated AKG hea
 
 ## Next Chapter
 
-[Plug in your headset](Plug_in_your_headset.md)
+[Plug in your headset](plug-in-your-headset.md)
