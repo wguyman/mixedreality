@@ -228,35 +228,23 @@ If the controller isn’t working correctly and you’re unable to update the de
 
 Motion controller uses LED constellation ring and haptics for indicating about its state.
 
-<table>
-<tr>
-<th style="width:20%">Motion controller state</th><th style="width:40%">How you get into this state</th><th style="width:40%">Motion controller light and vibration behavior associated with state</th>
-</tr><tr>
-<td><b>Power on</b></td><td>Press and hold Windows button on controller for 2s to turn on controller.</td><td>LEDs turn on and controller vibrates once.</td>
-</tr><tr>
-<td><b>Power off</b></td><td>Press and hold Windows button on controller for 4s to turn off controller.</td><td>LEDs turn off and controller vibrates twice.</td>
-</tr><tr>
-<td><b>Sleeping</b></td><td><p>Controller enters sleeping state automatically when it’s motionless for 30s.</p><p>Controller automatically wakes when it detects motion (except when device is not paired with host PC, button press will be required to wake-up).</p></td><td>LEDs turn off, blink every 3 seconds while in sleeping state.</td>
-</tr><tr>
-<td><b>Pairing</b></td><td>Press and hold pairing button inside battery case for 3s.</td><td><p>LEDs slowly pulse while in pairing mode.</p><p>LEDs go solid when exiting pairing mode. Controller vibrates once if pairing was successful or vibrates 3 times if pairing is unsuccessful and times out.</p></td>
-</tr><tr>
-<td><b>Controller connects to/disconnects from PC</b></td><td><p>Controller successfully connects to PC after you turned it on.</p><p>Controller disconnects from PC during use for some reason.</p></td><td>Controller vibrates once on PC connection or disconnection.</td>
-</tr><tr>
-<td><b>Low Battery Level</b></td><td>When battery level is low.</td><td>No LED or vibration indication when battery is low. If you look at the representation of the controller in headset, there is a battery indicator icon on the handle. When battery is low, the indicator icon will show 1/4 full.</td>
-</tr><tr>
-<td><b>Critical Battery Level</b></td><td>During power on when battery level is &quot;Critical&quot;. “Critical” battery level means there is insufficient power for controller to stay on and the controller will turn off automatically.</td><td>Controller vibrates 3 times when you turn it on, then automatically turns off. As you approach this state, the battery indicator icon will display red.</td>
-</tr><tr>
-<td><b>Device Update</b></td><td>This happens when you turn the controller on and a firmware update is required.</td><td><p>During controller firmware update, the controller will be unresponsive, though you will still be able to turn it off. If you turn it off during firmware update, the controller will simply try to update again the next time you turn it on and it connects to the PC.</p><p>When a controller firmware update starts, you’ll see a Windows notification telling you that the controller is being updated.</p><p>During firmware update, the LEDs will blink in an alternating pattern of half of the outer ring lights, then half of the inner ring lights</p></td>
-</tr>
-</table>
-
+| Motion controller state    | How you get into this state | Motion controller light and vibration behavior associated with state |
+|----------------------------|-----------------------------|----------------------------------------------------------------------|
+| **Power on**               | Press and hold Windows button on controller for 2s to turn on controller.       | LEDs turn on and controller vibrates once. |
+| **Power off**              | Press and hold Windows button on controller for 4s to turn off controller.      | LEDs turn off and controller vibrates twice. |
+| **Sleeping**               | Controller enters sleeping state automatically when it’s motionless for 30s. <br><br> Controller automatically wakes when it detects motion (except when device is not paired with host PC, button press will be required to wake-up). |LEDs turn off, blink every 3 seconds while in sleeping state. |
+| **Pairing**                | Press and hold pairing button inside battery case for 3s.                       | LEDs slowly pulse while in pairing mode. <br><br> LEDs go solid when exiting pairing mode. Controller vibrates once if pairing was successful or vibrates 3 times if pairing is unsuccessful and times out. |
+| **Controller connects to/disconnects from PC** | Controller successfully connects to PC after you turned it on.<br><br>Controller disconnects from PC during use for some reason.|Controller vibrates once on PC connection or disconnection. |
+| **Low Battery Level**      | When battery level is low.|No LED or vibration indication when battery is low. If you look at the representation of the controller in headset, there is a battery indicator icon on the handle. When battery is low, the indicator icon will show 1/4 full. |
+| **Critical Battery Level** | During power on when battery level is "Critical". “Critical” battery level means there is insufficient power for controller to stay on and the controller will turn off automatically.|Controller vibrates 3 times when you turn it on, then automatically turns off. As you approach this state, the battery indicator icon will display red. |
 
 
 ### Bluetooth best practices
 
 Motion Controllers use the same Bluetooth technology found in many consumer devices. Motion Controllers are designed to work with Bluetooth capability included in any recent PC.
 
-First verify that your PC has a Bluetooth radio. If the device passed the Mixed Reality Compatibility Checker then it should. Right click on the Windows Start Menu and select Device Manager. Expand the Bluetooth section and look for an Adapter. ![Screenshot of an Example Device Manager. The Adapter is the Bluetooth radio.](images/devicemanagerbtadapterpic.png) If your PC doesn’t have Bluetooth, one recommended dongle is the [Plugable USB Bluetooth 4.0 Low Energy Micro Adapter](https://www.amazon.com/Plugable-Bluetooth-Adapter-Raspberry-Compatible/dp/B009ZIILLI/ref=sr-1-1?ie=UTF8&qid=1490148230&sr=8-1&keywords=plugable+broadcom).
+First verify that your PC has a Bluetooth radio. If the device passed the Mixed Reality Compatibility Checker then it should. Right click on the Windows Start Menu and select Device Manager. Expand the Bluetooth section and look for an adapter. If your PC doesn’t have Bluetooth, one recommended dongle is the [Plugable USB Bluetooth 4.0 Low Energy Micro Adapter](https://www.amazon.com/Plugable-Bluetooth-Adapter-Raspberry-Compatible/dp/B009ZIILLI/ref=sr-1-1?ie=UTF8&qid=1490148230&sr=8-1&keywords=plugable+broadcom).\
+![Screenshot of an Example Device Manager. The Adapter is the Bluetooth radio.](images/devicemanagerbtadapterpic.png) 
 
 If your computer has Bluetooth already, but you are still having problems with the Motion Controllers, consider replacing your Bluetooth radio with the Plugable external Bluetooth Adapter plugged into USB.
 
