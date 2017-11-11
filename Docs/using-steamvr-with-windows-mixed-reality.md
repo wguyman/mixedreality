@@ -26,18 +26,18 @@ You must be running the latest Windows 10 Fall Creators update to use the Window
 ### Setting up SteamVR
 1. Install Steam - http://store.steampowered.com/about. **Note:** If you already have Steam and you're running the client beta, you'll need to opt out before proceeding - Steam (top left of the UI) -> Settings -> Account -> Beta Participation - Not Participating.
 2. Install SteamVR - Use the drop down under your Library to filter to Tools and then locate SteamVR in the list and right click to install.
-3. Open SteamVR properties - right click SteamVR in the same Tools page and open the Properties dialog.![Install SteamVR from the tools section of your Steam Library](images/SteamVR-install.png)
-4. Join the SteamVR Beta - click the Betas tab and opt into SteamVR Beta Update by selecting it from the drop down. **Note:** The beta access code field should be left blank and you can just hit close to confirm.![Switch to the SteamVR beta in the properties dialog for SteamVR](images/SteamVR-Beta.png)
+3. Open SteamVR properties - right click SteamVR in the same Tools page and open the Properties dialog.![Install SteamVR from the tools section of your Steam Library](images/steamvr-install.png)
+4. Join the SteamVR Beta - click the Betas tab and opt into SteamVR Beta Update by selecting it from the drop down. **Note:** The beta access code field should be left blank and you can just hit close to confirm.![Switch to the SteamVR beta in the properties dialog for SteamVR](images/steamvr-beta.png)
 
 ### Enable Developer mode in Windows settings
 
-Windows Settings -> Update and Security -> For developers - Select Developer Mode![Enable Developer mode in Windows Settings](images/SteamVR-DevMode.png)
+Windows Settings -> Update and Security -> For developers - Select Developer Mode![Enable Developer mode in Windows Settings](images/steamvr-devmode.png)
 
 ### Activate the Windows Mixed Reality SteamVR Preview
 
 The Windows Mixed Reality SteamVR preview is currently in a **closed developer preview** so you must have a key to download it on Steam. Once you receive your key, activate the product through Steam:
 
-Under the "Games" drop down menu at the top left of your Steam Client select "Activate a Product on Steam" -> Next -> Accept -> copy/paste your key -> Next -> Finish![Use the product key to obtain your download of the SteamVR preview](images/SteamVR-ActivateProduct.jpg)
+Under the "Games" drop down menu at the top left of your Steam Client select "Activate a Product on Steam" -> Next -> Accept -> copy/paste your key -> Next -> Finish![Use the product key to obtain your download of the SteamVR preview](images/steamvr-activateproduct.jpg)
 
 ### Install the Windows Mixed Reality SteamVR preview
 1. Filter your Steam Library to ‘Software’ to find the Windows Mixed Reality SteamVR preview that you just activated with the product key

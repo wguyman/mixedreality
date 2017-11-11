@@ -18,8 +18,7 @@ keywords: Windows Mixed Reality, Inside-out tracking
 
 Because tracking on Windows Mixed Reality immersive headsets works like tracking on Microsoft HoloLens, you may find this video useful:
 
-[!VIDEO https://www.youtube.com/embed/TneGSeqVAXQ?rel=0&amp;modestbranding=1" frameborder="0" allowfullscreen="1"]
-
+[!VIDEO https://www.youtube.com/embed/TneGSeqVAXQ?rel=0&modestbranding=1&frameborder=0&allowfullscreen]
 
 ## What do I need to make tracking work well?
 
@@ -59,11 +58,11 @@ That is not supported at this time.
 
 Since the safety boundary is specific to a physical location, if you are using the device in a different location then the system will not be able to find the bounds. Additionally, once you have set up your boundary, the system will always look for it, even if you use the device in a different physical location. You will see this UI anytime you use the device in a different location and have not set up a boundary in that location yet. You can set up boundaries in each location you use the device, and the device will recall your location specific bounds.
 
-If you are using the device in a location you have previously set up a boundary, and the device still cannot find it, you may set up a new bounds, or clear all environment data to remove all bounds from the device. See the [troubleshooting](Troubleshooting-Windows-Mixed-Reality.md#tracking-system) section to understand why the system cannot find your bounds and steps to correct it.
+If you are using the device in a location you have previously set up a boundary, and the device still cannot find it, you may set up a new bounds, or clear all environment data to remove all bounds from the device. See the [troubleshooting](troubleshooting-windows-mixed-reality.md#tracking-system) section to understand why the system cannot find your bounds and steps to correct it.
 
 ## How to set up tracking
 
-Tracking in Windows Mixed Reality is simple to use. There is no infrastructure or setup required and the device will work out of the box. If you chose to, you may set up a virtual boundary for use. See the section on [setting up your boundary](Set-up-Windows-Mixed-Reality.md#set-up-your-room-boundary) for more information.
+Tracking in Windows Mixed Reality is simple to use. There is no infrastructure or setup required and the device will work out of the box. If you chose to, you may set up a virtual boundary for use. See the section on [setting up your boundary](set-up-windows-mixed-reality.md#set-up-your-room-boundary) for more information.
 
 ## Clearing tracking and environment data
 
