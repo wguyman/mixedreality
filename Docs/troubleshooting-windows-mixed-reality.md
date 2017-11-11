@@ -22,7 +22,7 @@ Notes on graphics cards:
 * If Windows Mixed Reality setup says your graphics card doesn’t meet the requirements and you think it does, make sure your headset is plugged into the correct card.
 * Check with your graphics card manufacturer for the latest driver update. Windows Mixed Reality requires a graphics card driver that supports at least [WDDM 2.2.](https://en.wikipedia.org/wiki/Windows-Display-Driver-Model#WDDM-2.2)
 
-### I get a message that says, “You’re nearly there—this PC doesn’t meet the minimum requirements needed to run Windows Mixed Reality"
+### I get a message that says, "You’re nearly there—this PC doesn’t meet the minimum requirements needed to run Windows Mixed Reality"
 
 If you get this message, your PC doesn’t meet the minimum requirements needed for the best experience in Windows Mixed Reality. Your PC may be able to run an immersive headset, but may not be able to run certain apps or might have problems with performance.
 
@@ -170,7 +170,7 @@ After the device updates, you should see a Mixed Reality Device appear in Device
 
 Verify you have fresh batteries in the device. Controller buzzing 3 times and shutting down indicates critical battery. If the issue persists, perform [device recovery](troubleshooting-windows-mixed-reality.md#device-recovery) to reset the controller back to factory settings.
 
-### I'm trying to pair my controllers, but they never show up in the “Add a new device menu” in Bluetooth Settings
+### I'm trying to pair my controllers, but they never show up in the "Add a new device menu" in Bluetooth Settings
 
 Check that you do not have controllers paired already, remove them and try again. If problem persists reboot PC and try again.'' If that fails, consult the [Bluetooth Best Practices](troubleshooting-windows-mixed-reality.md#bluetooth-best-practices) section
 
@@ -236,7 +236,7 @@ Motion controller uses LED constellation ring and haptics for indicating about i
 | **Pairing**                | Press and hold pairing button inside battery case for 3s.                       | LEDs slowly pulse while in pairing mode. <br><br> LEDs go solid when exiting pairing mode. Controller vibrates once if pairing was successful or vibrates 3 times if pairing is unsuccessful and times out. |
 | **Controller connects to/disconnects from PC** | Controller successfully connects to PC after you turned it on.<br><br>Controller disconnects from PC during use for some reason.|Controller vibrates once on PC connection or disconnection. |
 | **Low Battery Level**      | When battery level is low.|No LED or vibration indication when battery is low. If you look at the representation of the controller in headset, there is a battery indicator icon on the handle. When battery is low, the indicator icon will show 1/4 full. |
-| **Critical Battery Level** | During power on when battery level is "Critical". “Critical” battery level means there is insufficient power for controller to stay on and the controller will turn off automatically.|Controller vibrates 3 times when you turn it on, then automatically turns off. As you approach this state, the battery indicator icon will display red. |
+| **Critical Battery Level** | During power on when battery level is "Critical". "Critical" battery level means there is insufficient power for controller to stay on and the controller will turn off automatically.|Controller vibrates 3 times when you turn it on, then automatically turns off. As you approach this state, the battery indicator icon will display red. |
 
 
 ### Bluetooth best practices
@@ -271,7 +271,7 @@ Motion Controllers should work with other Bluetooth keyboards, mice and game con
 
 **Motion Controllers Troubleshooting Steps:**
 
-Make sure the motion controllers show up as 'Connected'. Just 'Paired' does not necessarily mean the controllers are connected to the PC. Controllers should appear under “Mouse, keyboard & pen” category. Motion controllers under “Other devices” have failed pairing process and is not functional.
+Make sure the motion controllers show up as 'Connected'. Just 'Paired' does not necessarily mean the controllers are connected to the PC. Controllers should appear under "Mouse, keyboard & pen" category. Motion controllers under "Other devices" have failed pairing process and is not functional.
 
 If you're using an external USB Bluetooth Adapter:
 * Please ensure the USB Bluetooth Adapter is connected to a USB 2.0 port (black) if available

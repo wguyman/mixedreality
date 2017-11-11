@@ -70,7 +70,7 @@ Motion controllers can be bonded with host PC using Windows settings like any ot
 
 2.    If you're using an external USB Bluetooth Adapter instead of a built-in Bluetooth radio, please review the Bluetooth Best Practices before proceeding. For desktop configuration with built-in radio, please ensure antenna is connected.
 
-3.    Open **Windows Settings** -> **Devices** -> **Add Bluetooth or other device** -> **Bluetooth** and remove any earlier instances of “Motion controller – Right” and “Motion controller – Left”. Check also Other devices category at the bottom of the list.
+3.    Open **Windows Settings** -> **Devices** -> **Add Bluetooth or other device** -> **Bluetooth** and remove any earlier instances of "Motion controller – Right" and "Motion controller – Left". Check also Other devices category at the bottom of the list.
 
 4.    Select **Add Bluetooth or other device** and see it starting to discover Bluetooth devices.
 
@@ -80,15 +80,15 @@ Motion controllers can be bonded with host PC using Windows settings like any ot
 
 7.    Wait "Motion controller - Left" or "Motion controller - Right" to appear to the bottom of the list. Select to pair. Controller will vibrate once when connected. ![Select motion controller to pair, if multiple instances select one from appearing bottom of the list](images/450px-bluetooth-add-a-device.png) 
 
-8.    You will see the controller appear in the Bluetooth settings under **“Mouse, keyboard, & pen” category”** as **Connected**. At this point, you may get a firmware update – see next section (“Updating controller firmware”).
+8.    You will see the controller appear in the Bluetooth settings under **"Mouse, keyboard, & pen" category"** as **Connected**. At this point, you may get a firmware update – see next section ("Updating controller firmware").
 
 9.    Reattach battery cover.
 
 10.    Repeat steps 1-9 for the second controller.
 
-After successfully pairing both controllers, your settings should look like this under “**“Mouse, keyboard, & pen” category** ![motion controllers connected](images/450px-motion-controller-connected.png)
+After successfully pairing both controllers, your settings should look like this under "**"Mouse, keyboard, & pen" category** ![motion controllers connected](images/450px-motion-controller-connected.png)
 
-If the controllers are turned off after pairing, their status will show up as Paired. If controllers stay permanently under “Other devices” category pairing may have been only partially completed and need to be performed again to get controller functional.
+If the controllers are turned off after pairing, their status will show up as Paired. If controllers stay permanently under "Other devices" category pairing may have been only partially completed and need to be performed again to get controller functional.
 
 ### Updating controller firmware
 * If an immersive headset is connected to your PC, and new controller firmware is available, the firmware will be pushed to your motion controllers automatically the next time they're turned on. Controller firmware updates are indicated by a pattern of illuminating LED quadrants in a circular motion, and take 1-2 minutes.

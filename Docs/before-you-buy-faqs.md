@@ -35,7 +35,7 @@ keywords:
 
 ### Where can I buy standalone motion controllers?
 
-**140 Character Response: ** Dell.com is selling standalone controllers in the US here: <http://www.dell.com/en-us/shop/accessories/apd/536-bbbs?c=us&l=en&s=dhs&cs=19&sku=536-BBBS>
+**140 Character Response:** Dell.com is selling standalone controllers in the US here: <http://www.dell.com/en-us/shop/accessories/apd/536-bbbs?c=us&l=en&s=dhs&cs=19&sku=536-BBBS>
 
 ### What OEMs are selling devices?
 
@@ -171,7 +171,7 @@ The Acer, HP, Lenovo, & Dell HMDs do not have mechanical IPD adjustment. The Sam
 
 ### What PCs have been badged for Windows Mixed Reality?
 
-**140 Character Response: ** The full list of badged PCs hasn't been published yet, but will be later this year. See if your PC is MR ready by running <https://aka.ms/mrcheck>
+**140 Character Response:** The full list of badged PCs hasn't been published yet, but will be later this year. See if your PC is MR ready by running <https://aka.ms/mrcheck>
 
 ### What Windows version supports Windows Mixed Reality? When is that OS available?
 
