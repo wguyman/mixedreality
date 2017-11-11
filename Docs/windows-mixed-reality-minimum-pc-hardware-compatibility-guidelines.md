@@ -87,7 +87,7 @@ You will then get an analysis of your PC against the required hardware, drivers,
 
 
 **Notes:**
-* Larger laptops (with screens of at least 15”) perform best.
+* Larger laptops (with screens of at least 15") perform best.
 * Hybrid graphics configurations are compatible only with a Windows Mixed Reality Ultra setup. The hybrid system’s discrete card must meet the same specifications listed for Windows Mixed Reality Ultra above.
 * Different headsets may require different hardware ports, so make sure your PC has the correct ports or [port adapters](Recommended-adapters-for-Windows-Mixed-Reality-Capable-PCs.md) to connect to your headset.
 
