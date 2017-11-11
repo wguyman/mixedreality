@@ -15,7 +15,7 @@ keywords:
 
 Mixed Reality Portal should now launch an immersive experience in your headset called **Learn Mixed Reality** that will teach you how to use Windows Mixed Reality. Gaze at the gem in the loading screen to get started. You should hear Cortana's voice in your headset giving you instructions on what to do next.
 
-![Learn Mixed Reality](images/File-LearnMixedRealityStart.png)
+![Learn Mixed Reality](images/file-learnmixedrealitystart.png)
 
 ## How do I re-run the learning experience?
 

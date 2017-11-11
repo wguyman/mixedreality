@@ -23,11 +23,11 @@ The next step is to set up your motion controllers. Windows Mixed Reality motion
 5. Your motion controllers will receive new software updates from Microsoft on a regular basis. The controllers will show an alternating pattern of flashing lights when they receive these new software updates. This is normal. You will want to wait until the controllers complete the software upgrade, indicated by a vibration and the replacement of the alternating flash pattern with a constant light emitted from the controllers, in order to use the controllers
 6. You may be told to "Put on the headset and use the thumbstick to teleport" before the controllers finish the update process. The controllers will not be visible or usable until the update is completed. Most updates occur within 2mins, but it's possible the occasional update is as long as ~10mins. Please wait for the update to complete to proceed to the next step
 
-![Motion controllers](images/1050px-Controllers.png)
+![Motion controllers](images/1050px-controllers.png)
 
 ### Get familiar with your motion controllers
 
-![Get familiar with your motion controllers](images/1050px-Controllers2.png)
+![Get familiar with your motion controllers](images/1050px-controllers2.png)
 
 ### Pair your motion controllers with your PC
 
@@ -35,13 +35,13 @@ Power on controllers by pressing the Windows button for 2 seconds until LEDs lig
 
 Remove the battery cover from your controllers and find the small pairing button at the edge of the controller. Per the instructions in Mixed Reality Portal, hold this button down to pair with your PC
 
-![Motion controller pairing](images/1050px-Controllers3.png)
+![Motion controller pairing](images/1050px-controllers3.png)
 
 ### Pairing successful
 
 Once your controllers are paired successfully, you will see two green checkmarks for the left and right controllers
 
-![Motion controller pairing successful](images/1050px-Controllersconnected.PNG)
+![Motion controller pairing successful](images/1050px-controllersconnected.png)
 
 You may see a message in the bottom right hand corner of your screen as the firmware on your controllers get updated. While this is happening, you can advance to the next step in the tutorial, but please don't turn off your controllers.
 
@@ -55,7 +55,7 @@ The next step is to choose a room scale or desk scale experience:
 
 **Option 2: Set me up for seated and standing experience ("desk scale")** experience will work at your desk. It's a good option if you don't have a lot of room in your space. It also means that you will be using your headset without a boundary. You'll need to stay in one place, as you'll have no boundary to help you avoid physical obstacles. Also, some apps and games may be designed to be used with a boundary, so they might not work as intended.
 
-![Choose a setup](images/1050px-Chooseasetup.png)
+![Choose a setup](images/1050px-chooseasetup.png)
 
 Choose an option.
 
@@ -63,23 +63,23 @@ Choose an option.
 
 Soon, your room will become a virtual world where you can walk around and interact! Stand up and clear some space in your room for running mixed reality (e.g. clear some floor space and move your chair to the side of the room). We recommend you at clear at least 5 foot x 7 foot (1.5 meters x 2 meters) of space for mixed reality.
 
-![Make sure your space is clear](images/1050px-CreateABoundary.png)
+![Make sure your space is clear](images/1050px-createaboundary.png)
 
 Make sure your space is clear.
 
-![Center your headset](images/1050px-CreateABoundary-2.png)
+![Center your headset](images/1050px-createaboundary-2.png)
 
 Center your headset.
 
-![Trace your boundary](images/1050px-CreateABoundary-3.png)
+![Trace your boundary](images/1050px-createaboundary-3.png)
 
 Trace your boundary.
 
-![Stay pointed towards PC](images/1050px-CreateABoundary-4.png)
+![Stay pointed towards PC](images/1050px-createaboundary-4.png)
 
 Keep your headset pointed toward your PC.
 
-![Here's your boundary](images/1050px-CreateABoundary-5.png)
+![Here's your boundary](images/1050px-createaboundary-5.png)
 
 Here's your boundary.
 
@@ -91,7 +91,7 @@ There are no additional steps required if you choose this option.
 
 You can enable Cortana commands inside of mixed reality. This allows you to use speech commands inside of mixed reality to teleport, open apps, and do other things. You'll learn more about this in the [learn mixed reality](learn-mixed-reality.md) chapter.
 
-![Mixed reality is better with speech](images/1050px-BetterWithSpeech.png)
+![Mixed reality is better with speech](images/1050px-betterwithspeech.png)
 
 Mixed reality is better with speech
 

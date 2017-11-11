@@ -17,12 +17,12 @@ keywords:
 The engineering team internally uses the same mechanism for finding and filing bugs. So use Feedback Hub and file issues; we are listening!
 
 ## How To file Feedback for Windows Mixed Reality immersive headset on PC
-* Ensure you have the immersive headset connected to your PC.![Feedback Tab](images/Feedback1.png)
-* Launch **Feedback Hub** on desktop with the HMD connected.![Add new feedback](images/Feedback2.PNG)
-* Go to **Feedback Tab** on the left pane. ![Details and repro steps](images/Feedback3.png)
-* Click **Add new feedback** button to enter the feedback.![Start Capture](images/Feedback4.png)
-* Select **Problem** in **What kind of feedback is this?** to make the feedback actionable.![Submit](images/Feedback5.png)
-* Provide meaningful feedback title in **Summarize your issue** box.![Thank You](images/Feedback6.png)
+* Ensure you have the immersive headset connected to your PC.![Feedback Tab](images/feedback1.png)
+* Launch **Feedback Hub** on desktop with the HMD connected.![Add new feedback](images/feedback2.png)
+* Go to **Feedback Tab** on the left pane. ![Details and repro steps](images/feedback3.png)
+* Click **Add new feedback** button to enter the feedback.![Start Capture](images/feedback4.png)
+* Select **Problem** in **What kind of feedback is this?** to make the feedback actionable.![Submit](images/feedback5.png)
+* Provide meaningful feedback title in **Summarize your issue** box.![Thank You](images/feedback6.png)
 * Provide details and steps to reproduce the issue in the **Give us more detail** box.
 * Select **Mixed Reality** as the top category and then pick an applicable sub category:
 

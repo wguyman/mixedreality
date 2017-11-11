@@ -43,17 +43,17 @@ Windows Mixed Reality is just Windows. That means you can run immersive games de
    * [Sketchfab](https://sketchfab.com/)
    * [CNN/VR](https://cnn.com/vr)
 4. Click the 'Enter VR' button on the webpage. It may look similar to:\
-![VR Goggles image](images/75px-Enter-vr.png)
+![VR Goggles image](images/75px-enter-vr.png)
 5. The first time you try to enter VR on a specific domain, the browser will ask for consent to use immersive view. Click Yes: ![Consent UI that is displayed on the first attempt to Enter VR on a particular domain](images/1053px-Webvr-consent-ui.png)
 6. The experience will launch and take over the experience in your headset!
 
 **Note:** You can launch WebVR experiences from Microsoft Edge either from within Windows Mixed Reality, or on the Windows Desktop.
 
-![Entering VR from Microsoft Edge on the desktop](images/450px-Webvr-desktop.png)
+![Entering VR from Microsoft Edge on the desktop](images/450px-webvr-desktop.png)
 
 Entering VR from Microsoft Edge on the desktop.
 
-![Entering VR from Microsoft Edge within the Mixed Reality cliffhouse](images/450px-Enter-vr-cliffhouse.jpg)
+![Entering VR from Microsoft Edge within the Mixed Reality cliffhouse](images/450px-enter-vr-cliffhouse.jpg)
 
 Entering VR from Microsoft Edge within the Mixed Reality cliffhouse.
 

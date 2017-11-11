@@ -13,7 +13,7 @@ keywords:
 
 **NOTE:** guidelines for development PCs are higher than those for consumers' PCs running mixed reality apps.
 
-Performance may vary depending on your exact setup. You'll also need to make sure your PC has the [right ports](Recommended-adapters-for-Windows-Mixed-Reality-Capable-PCs.md) for the Windows Mixed Reality immersive headset that you are using.
+Performance may vary depending on your exact setup. You'll also need to make sure your PC has the [right ports](recommended-adapters-for-windows-mixed-reality-capable-pcs.md) for the Windows Mixed Reality immersive headset that you are using.
 
 ## Windows Mixed Reality PC Check
 

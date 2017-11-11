@@ -22,7 +22,7 @@ Your [Windows Mixed Reality compatible PC](windows-mixed-reality-minimum-pc-hard
 <tr>
 <th style="width:30%">Type</th><th style="width:40%">Adapter</th><th style="width:15%">60Hz capable</th><th style="width:15%">90Hz capable</th>
 </tr><tr>
-<td rowspan="4" style="vertical-align: middle;">Mini DisplayPort (MiniDP) to HDMI 2.0</td><td>Club3D HDMI 2.0 Active Adapter</td><td style="text-align: center;">✔️</td><td style="text-align: center;">✔️</td>
+<td rowspan="4" style="vertical-align: middle;">Mini DisplayPort (minidp) to HDMI 2.0</td><td>Club3D HDMI 2.0 Active Adapter</td><td style="text-align: center;">✔️</td><td style="text-align: center;">✔️</td>
 </tr><tr>
 <td>Surface Mini DisplayPort to HDMI 2.0 Adapter</td><td style="text-align: center;">✔️</td><td style="text-align: center;">✔️</td>
 </tr><tr>
@@ -40,7 +40,7 @@ Your [Windows Mixed Reality compatible PC](windows-mixed-reality-minimum-pc-hard
 
 ## Windows Mixed Reality port compatibility and adapter requirements tables
 
-These tables will help you determine if you'll need display or USB adapters for your Windows Mixed Reality PC or Windows Mixed Reality Ultra PC and, if so, which you'll need. See the [table above](Recommended-adapters-for-Windows-Mixed-Reality-Capable-PCs.md#recommended-display-adapters-for-windows-mixed-reality-capable-pcs) for recommended display adapter models.
+These tables will help you determine if you'll need display or USB adapters for your Windows Mixed Reality PC or Windows Mixed Reality Ultra PC and, if so, which you'll need. See the [table above](recommended-adapters-for-windows-mixed-reality-capable-pcs.md#recommended-display-adapters-for-windows-mixed-reality-capable-pcs) for recommended display adapter models.
 
 <table>
 <tr>

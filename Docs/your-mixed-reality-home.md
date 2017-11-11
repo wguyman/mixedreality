@@ -64,14 +64,14 @@ To change the visual quality settings, go to the Settings App > Mixed Reality > 
 
 Go to **Settings > Mixed Reality > Environment > Reset my home**
 
-![Windows Settings panel to reset my home](images/1050px-EnvironmentReset.png)
+![Windows Settings panel to reset my home](images/1050px-environmentreset.png)
 
 ### How do I uninstall Windows Mixed Reality?
 1. Unplug your headset
 2. Close Mixed Reality Portal
 3. Go to **Settings > Mixed Reality > Uninstall > Uninstall**
 
-![Windows Settings panel to uninstall mixed reality](images/1050px-Uninstall2.png)
+![Windows Settings panel to uninstall mixed reality](images/1050px-uninstall2.png)
 
 ### How do I turn off the boundary?
 
