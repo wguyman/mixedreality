@@ -99,7 +99,7 @@ Mixed Reality Portal has a **Play** button at the bottom of the screen that allo
 
 ### The screen inside of my HMD is black
 * Check to make sure that the HDMI cable is plugged in all the way
-* If you're using an HDMI adapter (e.g. a Mini DisplayPort to HDMI adapter), please try connecting the adapter to your PC before connecting the HMD to the adapter.
+ * If you're using an HDMI adapter (e.g. a Mini DisplayPort to HDMI adapter), please try connecting the adapter to your PC before connecting the HMD to the adapter.
 * Check to make sure the USB cable is plugged in a USB 3.0 or faster port. USB 3.0 ports have SS (Super Speed) written next to them. They are often (but not always) colored blue.
 * Consult the [HMD troubleshooting flow chart](troubleshooting-windows-mixed-reality.md)
 
@@ -118,7 +118,7 @@ If your computer does not have an HDMI port, you will need to use a [supported a
 4. You are done when you verify that each item that includes the text "eXtensible Host Controller" has "Microsoft" at the end.
 5. Now you should not see this error when you plug in the HMD.
 
-### I am getting a "Something Went Wrong" error 2181038087-4
+### I am getting a "Something Went Wrong" error 2181038087-4 or 2181038087-5
 
 **Likely reason for the error code:** The headset driver failed to initialize the two tracking cameras in the headset.
 
