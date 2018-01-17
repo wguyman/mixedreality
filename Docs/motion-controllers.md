@@ -110,7 +110,7 @@ Apps that support pointing with motion controllers should also enable gaze-drive
 
 When using motion controllers to point and commit, your users will use the controller to target and then take action by pulling its trigger. Users who pull the trigger vigorously may end up aiming the controller higher at the end of their trigger pull than they'd intended.
 
-To manage any such recoil that may occur when users pull the trigger, your app can snap its targeting ray when the trigger's analog axis value rises above 0.0. You can then then take action using that targeting ray a few frames later once the trigger value reaches 1.0, as long as the final press occurs within a short time window. When using the higher-level composite Tap gesture, Windows will manage this targeting ray capture and timeout for you.
+To manage any such recoil that may occur when users pull the trigger, your app can snap its targeting ray when the trigger's analog axis value rises above 0.0. You can then take action using that targeting ray a few frames later once the trigger value reaches 1.0, as long as the final press occurs within a short time window. When using the higher-level composite Tap gesture, Windows will manage this targeting ray capture and timeout for you.
 
 ## Grip pose vs. pointing pose
 
@@ -144,9 +144,7 @@ If the user moves the controllers out of the headset's field of view, in most ca
 
 At this point, the system will body-lock the controller to the user, tracking the user's position as they move around, while still exposing the controller's true orientation using its internal orientation sensors. Many apps that use controllers to point at and activate UI elements can operate normally while in approximate accuracy without the user noticing.
 
-The best way to get a feel for this is to try it yourself. Check out this video with examples of immersive content that works with motion controllers across various tracking states:
-
-[!VIDEO https://www.youtube.com/embed/QK_fOFDHj0g?rel=0&modestbranding=1&frameborder=0&allowfullscreen]
+>[!VIDEO https://www.youtube.com/embed/rkDpRllbLII?rel=0&modestbranding=1&frameborder=0&allowfullscreen]
 
 ### Reasoning about tracking state explicitly
 
